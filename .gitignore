@@ -1,0 +1,27 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables & local secrets
+.env
+.env.local
+
+# Generated runtime data & spreadsheets (except sent_history)
+*.xlsx
+scratch/
+.system_generated/
+
+# OS specific
+.DS_Store
+Thumbs.db

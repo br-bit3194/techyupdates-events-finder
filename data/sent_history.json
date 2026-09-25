@@ -1,0 +1,1218 @@
+{
+  "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026": {
+    "title": "KubeCon + CloudNativeCon North America",
+    "normalized_title": "kubecon cloudnativecon north america",
+    "original_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
+    "canonical_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "KubeCon + CloudNativeCon North America",
+      "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Conference"
+    }
+  },
+  "https://scipy.in/2026": {
+    "title": "SciPy India",
+    "normalized_title": "scipy india",
+    "original_url": "https://scipy.in/2026/",
+    "canonical_url": "https://scipy.in/2026",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (PYTHON)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "SciPy India",
+      "url": "https://scipy.in/2026/",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (PYTHON)",
+      "event_type": "Conference"
+    }
+  },
+  "https://halfstackconf.com/phoenix": {
+    "title": "HalfStack Phoenix",
+    "normalized_title": "halfstack phoenix",
+    "original_url": "https://halfstackconf.com/phoenix",
+    "canonical_url": "https://halfstackconf.com/phoenix",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (JAVASCRIPT)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "HalfStack Phoenix",
+      "url": "https://halfstackconf.com/phoenix",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (JAVASCRIPT)",
+      "event_type": "Conference"
+    }
+  },
+  "https://halfstackconf.com/vienna": {
+    "title": "HalfStack Vienna",
+    "normalized_title": "halfstack vienna",
+    "original_url": "https://halfstackconf.com/vienna",
+    "canonical_url": "https://halfstackconf.com/vienna",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (JAVASCRIPT)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "HalfStack Vienna",
+      "url": "https://halfstackconf.com/vienna",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (JAVASCRIPT)",
+      "event_type": "Conference"
+    }
+  },
+  "https://devopsdays.org/events/2026-berlin/welcome": {
+    "title": "Devopsdays Berlin",
+    "normalized_title": "devopsdays berlin",
+    "original_url": "https://devopsdays.org/events/2026-berlin/welcome",
+    "canonical_url": "https://devopsdays.org/events/2026-berlin/welcome",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Devopsdays Berlin",
+      "url": "https://devopsdays.org/events/2026-berlin/welcome",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Conference"
+    }
+  },
+  "https://wearecommunity.io/events/applied-ai": {
+    "title": "Applied AI Technology Conference",
+    "normalized_title": "applied ai technology conference",
+    "original_url": "https://wearecommunity.io/events/applied-ai",
+    "canonical_url": "https://wearecommunity.io/events/applied-ai",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Applied AI Technology Conference",
+      "url": "https://wearecommunity.io/events/applied-ai",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://apiconference.net/new-york": {
+    "title": "API Conference NYC",
+    "normalized_title": "api conference nyc",
+    "original_url": "https://apiconference.net/new-york",
+    "canonical_url": "https://apiconference.net/new-york",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "API Conference NYC",
+      "url": "https://apiconference.net/new-york",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Conference"
+    }
+  },
+  "https://devopscon.io/muenchen": {
+    "title": "DevOpsCon Munich",
+    "normalized_title": "devopscon munich",
+    "original_url": "https://devopscon.io/muenchen",
+    "canonical_url": "https://devopscon.io/muenchen",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "DevOpsCon Munich",
+      "url": "https://devopscon.io/muenchen",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Conference"
+    }
+  },
+  "https://javascript-conference.com/new-york": {
+    "title": "International JavaScript Conference NYC",
+    "normalized_title": "international javascript conference nyc",
+    "original_url": "https://javascript-conference.com/new-york",
+    "canonical_url": "https://javascript-conference.com/new-york",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (JAVASCRIPT)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "International JavaScript Conference NYC",
+      "url": "https://javascript-conference.com/new-york",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (JAVASCRIPT)",
+      "event_type": "Conference"
+    }
+  },
+  "https://javascript-conference.com/muenchen": {
+    "title": "International JavaScript Conference Munich",
+    "normalized_title": "international javascript conference munich",
+    "original_url": "https://javascript-conference.com/muenchen",
+    "canonical_url": "https://javascript-conference.com/muenchen",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (JAVASCRIPT)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "International JavaScript Conference Munich",
+      "url": "https://javascript-conference.com/muenchen",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (JAVASCRIPT)",
+      "event_type": "Conference"
+    }
+  },
+  "https://javascript-days.de/berlin": {
+    "title": "JavaScript & Angular Days",
+    "normalized_title": "javascript angular days",
+    "original_url": "https://javascript-days.de/berlin",
+    "canonical_url": "https://javascript-days.de/berlin",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (JAVASCRIPT)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "JavaScript & Angular Days",
+      "url": "https://javascript-days.de/berlin",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (JAVASCRIPT)",
+      "event_type": "Conference"
+    }
+  },
+  "https://apiconference.net/berlin": {
+    "title": "API Conference Berlin",
+    "normalized_title": "api conference berlin",
+    "original_url": "https://apiconference.net/berlin",
+    "canonical_url": "https://apiconference.net/berlin",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "API Conference Berlin",
+      "url": "https://apiconference.net/berlin",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Conference"
+    }
+  },
+  "https://rajasthan.wordcamp.org/2026": {
+    "title": "WordCamp Rajasthan",
+    "normalized_title": "wordcamp rajasthan",
+    "original_url": "https://rajasthan.wordcamp.org/2026",
+    "canonical_url": "https://rajasthan.wordcamp.org/2026",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "WordCamp Rajasthan",
+      "url": "https://rajasthan.wordcamp.org/2026",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://m3-konferenz.de/llm.php": {
+    "title": "Minds Mastering Machines - M3: LLMs im Unternehmen",
+    "normalized_title": "minds mastering machines m3 llms im unternehmen",
+    "original_url": "https://m3-konferenz.de/llm.php",
+    "canonical_url": "https://m3-konferenz.de/llm.php",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Minds Mastering Machines - M3: LLMs im Unternehmen",
+      "url": "https://m3-konferenz.de/llm.php",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://communityovercode.apache.org/events/sydney-2026": {
+    "title": "Community Over Code Sydney",
+    "normalized_title": "community over code sydney",
+    "original_url": "https://communityovercode.apache.org/events/sydney-2026",
+    "canonical_url": "https://communityovercode.apache.org/events/sydney-2026",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Community Over Code Sydney",
+      "url": "https://communityovercode.apache.org/events/sydney-2026",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://events.itrevolution.com/2026-charlotte": {
+    "title": "Enterprise AI Summit",
+    "normalized_title": "enterprise ai summit",
+    "original_url": "https://events.itrevolution.com/2026-charlotte/",
+    "canonical_url": "https://events.itrevolution.com/2026-charlotte",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Enterprise AI Summit",
+      "url": "https://events.itrevolution.com/2026-charlotte/",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Summit"
+    }
+  },
+  "https://mlconference.ai/new-york": {
+    "title": "MLCon NYC",
+    "normalized_title": "mlcon nyc",
+    "original_url": "https://mlconference.ai/new-york",
+    "canonical_url": "https://mlconference.ai/new-york",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "MLCon NYC",
+      "url": "https://mlconference.ai/new-york",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600": {
+    "title": "QA in the Age of AI: Reimagining Software Quality for the Intelligent Era",
+    "normalized_title": "qa in the age of ai reimagining software quality for the intelligent era",
+    "original_url": "https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600",
+    "canonical_url": "https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "QA in the Age of AI: Reimagining Software Quality for the Intelligent Era",
+      "url": "https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/build-your-own-local-ai-assistant-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1760745": {
+    "title": "Build Your Own Local AI Assistant",
+    "normalized_title": "build your own local ai assistant",
+    "original_url": "https://unstop.com/workshops-webinars/build-your-own-local-ai-assistant-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1760745",
+    "canonical_url": "https://unstop.com/workshops-webinars/build-your-own-local-ai-assistant-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1760745",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Build Your Own Local AI Assistant",
+      "url": "https://unstop.com/workshops-webinars/build-your-own-local-ai-assistant-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1760745",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-demo-on-azure-data-engineer-quality-thought-info-systems-1761413": {
+    "title": "Free Demo on Azure Data Engineer",
+    "normalized_title": "free demo on azure data engineer",
+    "original_url": "https://unstop.com/workshops-webinars/free-demo-on-azure-data-engineer-quality-thought-info-systems-1761413",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-demo-on-azure-data-engineer-quality-thought-info-systems-1761413",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Free Demo on Azure Data Engineer",
+      "url": "https://unstop.com/workshops-webinars/free-demo-on-azure-data-engineer-quality-thought-info-systems-1761413",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/what-happens-after-you-land-your-first-sde-role-techbairn-1761675": {
+    "title": "What Happens After You Land Your First SDE Role?",
+    "normalized_title": "what happens after you land your first sde role",
+    "original_url": "https://unstop.com/workshops-webinars/what-happens-after-you-land-your-first-sde-role-techbairn-1761675",
+    "canonical_url": "https://unstop.com/workshops-webinars/what-happens-after-you-land-your-first-sde-role-techbairn-1761675",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "What Happens After You Land Your First SDE Role?",
+      "url": "https://unstop.com/workshops-webinars/what-happens-after-you-land-your-first-sde-role-techbairn-1761675",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-college-to-android-development-building-a-career-in-mobile-tech-techbairn-1761674": {
+    "title": "From College to Android Development: Building a Career in Mobile Tech",
+    "normalized_title": "from college to android development building a career in mobile tech",
+    "original_url": "https://unstop.com/workshops-webinars/from-college-to-android-development-building-a-career-in-mobile-tech-techbairn-1761674",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-college-to-android-development-building-a-career-in-mobile-tech-techbairn-1761674",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "From College to Android Development: Building a Career in Mobile Tech",
+      "url": "https://unstop.com/workshops-webinars/from-college-to-android-development-building-a-career-in-mobile-tech-techbairn-1761674",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/inside-todays-technology-industry-data-software-ai-techbairn-1761673": {
+    "title": "Inside Today's Technology Industry: Data, Software & AI",
+    "normalized_title": "inside todays technology industry data software ai",
+    "original_url": "https://unstop.com/workshops-webinars/inside-todays-technology-industry-data-software-ai-techbairn-1761673",
+    "canonical_url": "https://unstop.com/workshops-webinars/inside-todays-technology-industry-data-software-ai-techbairn-1761673",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Inside Today's Technology Industry: Data, Software & AI",
+      "url": "https://unstop.com/workshops-webinars/inside-todays-technology-industry-data-software-ai-techbairn-1761673",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/tech-careers-in-the-age-of-ai-what-to-learn-how-to-prepare-get-hired-techbairn-1761671": {
+    "title": "Tech Careers in the Age of AI: What to Learn, How to Prepare & Get Hired",
+    "normalized_title": "tech careers in the age of ai what to learn how to prepare get hired",
+    "original_url": "https://unstop.com/workshops-webinars/tech-careers-in-the-age-of-ai-what-to-learn-how-to-prepare-get-hired-techbairn-1761671",
+    "canonical_url": "https://unstop.com/workshops-webinars/tech-careers-in-the-age-of-ai-what-to-learn-how-to-prepare-get-hired-techbairn-1761671",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Tech Careers in the Age of AI: What to Learn, How to Prepare & Get Hired",
+      "url": "https://unstop.com/workshops-webinars/tech-careers-in-the-age-of-ai-what-to-learn-how-to-prepare-get-hired-techbairn-1761671",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/inside-autonomous-ai-designing-intelligent-systems-for-the-real-world-techbairn-1761670": {
+    "title": "Inside Autonomous AI: Designing Intelligent Systems for the Real World",
+    "normalized_title": "inside autonomous ai designing intelligent systems for the real world",
+    "original_url": "https://unstop.com/workshops-webinars/inside-autonomous-ai-designing-intelligent-systems-for-the-real-world-techbairn-1761670",
+    "canonical_url": "https://unstop.com/workshops-webinars/inside-autonomous-ai-designing-intelligent-systems-for-the-real-world-techbairn-1761670",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Inside Autonomous AI: Designing Intelligent Systems for the Real World",
+      "url": "https://unstop.com/workshops-webinars/inside-autonomous-ai-designing-intelligent-systems-for-the-real-world-techbairn-1761670",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1761669": {
+    "title": "Beyond Writing Code: The Future Role of Software Engineers",
+    "normalized_title": "beyond writing code the future role of software engineers",
+    "original_url": "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1761669",
+    "canonical_url": "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1761669",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Beyond Writing Code: The Future Role of Software Engineers",
+      "url": "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1761669",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/beyond-applications-exploring-embedded-systems-engineering-techbairn-1761668": {
+    "title": "Beyond Applications: Exploring Embedded & Systems Engineering",
+    "normalized_title": "beyond applications exploring embedded systems engineering",
+    "original_url": "https://unstop.com/workshops-webinars/beyond-applications-exploring-embedded-systems-engineering-techbairn-1761668",
+    "canonical_url": "https://unstop.com/workshops-webinars/beyond-applications-exploring-embedded-systems-engineering-techbairn-1761668",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Beyond Applications: Exploring Embedded & Systems Engineering",
+      "url": "https://unstop.com/workshops-webinars/beyond-applications-exploring-embedded-systems-engineering-techbairn-1761668",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/your-future-in-tech-exploring-careers-in-data-ai-techbairn-research-1761665": {
+    "title": "Your Future in Tech: Exploring Careers in Data & AI",
+    "normalized_title": "your future in tech exploring careers in data ai",
+    "original_url": "https://unstop.com/workshops-webinars/your-future-in-tech-exploring-careers-in-data-ai-techbairn-research-1761665",
+    "canonical_url": "https://unstop.com/workshops-webinars/your-future-in-tech-exploring-careers-in-data-ai-techbairn-research-1761665",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Your Future in Tech: Exploring Careers in Data & AI",
+      "url": "https://unstop.com/workshops-webinars/your-future-in-tech-exploring-careers-in-data-ai-techbairn-research-1761665",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-learning-to-getting-hired-preparing-for-the-ai-driven-tech-industry-techbairn-research-1761664": {
+    "title": "From Learning to Getting Hired: Preparing for the AI-Driven Tech Industry",
+    "normalized_title": "from learning to getting hired preparing for the aidriven tech industry",
+    "original_url": "https://unstop.com/workshops-webinars/from-learning-to-getting-hired-preparing-for-the-ai-driven-tech-industry-techbairn-research-1761664",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-learning-to-getting-hired-preparing-for-the-ai-driven-tech-industry-techbairn-research-1761664",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "From Learning to Getting Hired: Preparing for the AI-Driven Tech Industry",
+      "url": "https://unstop.com/workshops-webinars/from-learning-to-getting-hired-preparing-for-the-ai-driven-tech-industry-techbairn-research-1761664",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-ai-concepts-to-production-the-journey-of-autonomous-agents-techbairn-research-1761663": {
+    "title": "From AI Concepts to Production: The Journey of Autonomous Agents",
+    "normalized_title": "from ai concepts to production the journey of autonomous agents",
+    "original_url": "https://unstop.com/workshops-webinars/from-ai-concepts-to-production-the-journey-of-autonomous-agents-techbairn-research-1761663",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-ai-concepts-to-production-the-journey-of-autonomous-agents-techbairn-research-1761663",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "From AI Concepts to Production: The Journey of Autonomous Agents",
+      "url": "https://unstop.com/workshops-webinars/from-ai-concepts-to-production-the-journey-of-autonomous-agents-techbairn-research-1761663",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://devopscon.io/new-york": {
+    "title": "DecOpsCon NYC",
+    "normalized_title": "decopscon nyc",
+    "original_url": "https://devopscon.io/new-york",
+    "canonical_url": "https://devopscon.io/new-york",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "DecOpsCon NYC",
+      "url": "https://devopscon.io/new-york",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/workshops-webinars/coding-is-changing-so-what-should-engineers-learn-next-techbairn-research-1761659": {
+    "title": "Coding Is Changing — So What Should Engineers Learn Next?",
+    "normalized_title": "coding is changing so what should engineers learn next",
+    "original_url": "https://unstop.com/workshops-webinars/coding-is-changing-so-what-should-engineers-learn-next-techbairn-research-1761659",
+    "canonical_url": "https://unstop.com/workshops-webinars/coding-is-changing-so-what-should-engineers-learn-next-techbairn-research-1761659",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Coding Is Changing — So What Should Engineers Learn Next?",
+      "url": "https://unstop.com/workshops-webinars/coding-is-changing-so-what-should-engineers-learn-next-techbairn-research-1761659",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://vibekode.it/netherlands": {
+    "title": "VibeKode Utrecht",
+    "normalized_title": "vibekode utrecht",
+    "original_url": "https://vibekode.it/netherlands",
+    "canonical_url": "https://vibekode.it/netherlands",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "VibeKode Utrecht",
+      "url": "https://vibekode.it/netherlands",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/workshops-webinars/engineering-to-industry-building-skills-that-actually-matter-techbairn-research-1761658": {
+    "title": "Engineering to Industry: Building Skills That Actually Matter",
+    "normalized_title": "engineering to industry building skills that actually matter",
+    "original_url": "https://unstop.com/workshops-webinars/engineering-to-industry-building-skills-that-actually-matter-techbairn-research-1761658",
+    "canonical_url": "https://unstop.com/workshops-webinars/engineering-to-industry-building-skills-that-actually-matter-techbairn-research-1761658",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Engineering to Industry: Building Skills That Actually Matter",
+      "url": "https://unstop.com/workshops-webinars/engineering-to-industry-building-skills-that-actually-matter-techbairn-research-1761658",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-idea-to-application-what-happens-behind-the-scenes-techbairn-research-1761656": {
+    "title": "From Idea to Application: What Happens Behind the Scenes",
+    "normalized_title": "from idea to application what happens behind the scenes",
+    "original_url": "https://unstop.com/workshops-webinars/from-idea-to-application-what-happens-behind-the-scenes-techbairn-research-1761656",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-idea-to-application-what-happens-behind-the-scenes-techbairn-research-1761656",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "From Idea to Application: What Happens Behind the Scenes",
+      "url": "https://unstop.com/workshops-webinars/from-idea-to-application-what-happens-behind-the-scenes-techbairn-research-1761656",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/inside-the-software-industry-skills-practices-career-growth-techbairn-research-1761653": {
+    "title": "Inside the Software Industry: Skills, Practices & Career Growth",
+    "normalized_title": "inside the software industry skills practices career growth",
+    "original_url": "https://unstop.com/workshops-webinars/inside-the-software-industry-skills-practices-career-growth-techbairn-research-1761653",
+    "canonical_url": "https://unstop.com/workshops-webinars/inside-the-software-industry-skills-practices-career-growth-techbairn-research-1761653",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Inside the Software Industry: Skills, Practices & Career Growth",
+      "url": "https://unstop.com/workshops-webinars/inside-the-software-industry-skills-practices-career-growth-techbairn-research-1761653",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/banking-on-youth-antler-1760528": {
+    "title": "Banking On Youth",
+    "normalized_title": "banking on youth",
+    "original_url": "https://unstop.com/conferences/banking-on-youth-antler-1760528",
+    "canonical_url": "https://unstop.com/conferences/banking-on-youth-antler-1760528",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Banking On Youth",
+      "url": "https://unstop.com/conferences/banking-on-youth-antler-1760528",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/crp-reimagining-reforming-healthcare-in-india-summit-2026-reimagining-reforming-healthcare-in-india-summit-2026--1759201": {
+    "title": "Reimagining & Reforming Healthcare in India Summit 2026",
+    "normalized_title": "reimagining reforming healthcare in india summit 2026",
+    "original_url": "https://unstop.com/conferences/crp-reimagining-reforming-healthcare-in-india-summit-2026-reimagining-reforming-healthcare-in-india-summit-2026--1759201",
+    "canonical_url": "https://unstop.com/conferences/crp-reimagining-reforming-healthcare-in-india-summit-2026-reimagining-reforming-healthcare-in-india-summit-2026--1759201",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Reimagining & Reforming Healthcare in India Summit 2026",
+      "url": "https://unstop.com/conferences/crp-reimagining-reforming-healthcare-in-india-summit-2026-reimagining-reforming-healthcare-in-india-summit-2026--1759201",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Summit"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-college-to-interview-room-building-your-technical-preparation-techbairn-research-1761657": {
+    "title": "From College to Interview Room: Building Your Technical Preparation",
+    "normalized_title": "from college to interview room building your technical preparation",
+    "original_url": "https://unstop.com/workshops-webinars/from-college-to-interview-room-building-your-technical-preparation-techbairn-research-1761657",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-college-to-interview-room-building-your-technical-preparation-techbairn-research-1761657",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "From College to Interview Room: Building Your Technical Preparation",
+      "url": "https://unstop.com/workshops-webinars/from-college-to-interview-room-building-your-technical-preparation-techbairn-research-1761657",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/breaking-into-data-engineering-skills-that-make-you-stand-out-techbairn-research-1761654": {
+    "title": "Breaking Into Data Engineering: Skills That Make You Stand Out",
+    "normalized_title": "breaking into data engineering skills that make you stand out",
+    "original_url": "https://unstop.com/workshops-webinars/breaking-into-data-engineering-skills-that-make-you-stand-out-techbairn-research-1761654",
+    "canonical_url": "https://unstop.com/workshops-webinars/breaking-into-data-engineering-skills-that-make-you-stand-out-techbairn-research-1761654",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Breaking Into Data Engineering: Skills That Make You Stand Out",
+      "url": "https://unstop.com/workshops-webinars/breaking-into-data-engineering-skills-that-make-you-stand-out-techbairn-research-1761654",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/management-case-conference-chandragupt-institute-of-management-cimp-patna-bihar-1752090": {
+    "title": "Management Case Conference",
+    "normalized_title": "management case conference",
+    "original_url": "https://unstop.com/conferences/management-case-conference-chandragupt-institute-of-management-cimp-patna-bihar-1752090",
+    "canonical_url": "https://unstop.com/conferences/management-case-conference-chandragupt-institute-of-management-cimp-patna-bihar-1752090",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.125628+00:00",
+    "metadata": {
+      "title": "Management Case Conference",
+      "url": "https://unstop.com/conferences/management-case-conference-chandragupt-institute-of-management-cimp-patna-bihar-1752090",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/mectroz-26-technical-paper-presentation-on-engineering-the-future-emerging-technologies-sustainable-innovati-1757246": {
+    "title": "MECTROZ-26 Technical Paper Presentation on Engineering the Future: Emerging Technologies, Sustainable Innovation & Intelligent Mechanical Systems",
+    "normalized_title": "mectroz26 technical paper presentation on engineering the future emerging technologies sustainable innovation intelligent mechanical systems",
+    "original_url": "https://unstop.com/conferences/mectroz-26-technical-paper-presentation-on-engineering-the-future-emerging-technologies-sustainable-innovati-1757246",
+    "canonical_url": "https://unstop.com/conferences/mectroz-26-technical-paper-presentation-on-engineering-the-future-emerging-technologies-sustainable-innovati-1757246",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "MECTROZ-26 Technical Paper Presentation on Engineering the Future: Emerging Technologies, Sustainable Innovation & Intelligent Mechanical Systems",
+      "url": "https://unstop.com/conferences/mectroz-26-technical-paper-presentation-on-engineering-the-future-emerging-technologies-sustainable-innovati-1757246",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://unstop.com/conferences/call-for-papers-iris-27-international-research-conference-on-computer-vision-iit-madras-1752972": {
+    "title": "Call for Papers - IRIS 27, International Research Conference on Computer Vision",
+    "normalized_title": "call for papers iris 27 international research conference on computer vision",
+    "original_url": "https://unstop.com/conferences/call-for-papers-iris-27-international-research-conference-on-computer-vision-iit-madras-1752972",
+    "canonical_url": "https://unstop.com/conferences/call-for-papers-iris-27-international-research-conference-on-computer-vision-iit-madras-1752972",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Call for Papers - IRIS 27, International Research Conference on Computer Vision",
+      "url": "https://unstop.com/conferences/call-for-papers-iris-27-international-research-conference-on-computer-vision-iit-madras-1752972",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://unstop.com/conferences/international-student-symposium-on-humanizing-technology-egs-pillay-engineering-college-1750324": {
+    "title": "International Student Symposium on Humanizing Technology 2026 (ISSHT 2026) – BIMSPARK 2K26",
+    "normalized_title": "international student symposium on humanizing technology 2026 issht 2026 bimspark 2k26",
+    "original_url": "https://unstop.com/conferences/international-student-symposium-on-humanizing-technology-egs-pillay-engineering-college-1750324",
+    "canonical_url": "https://unstop.com/conferences/international-student-symposium-on-humanizing-technology-egs-pillay-engineering-college-1750324",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "International Student Symposium on Humanizing Technology 2026 (ISSHT 2026) – BIMSPARK 2K26",
+      "url": "https://unstop.com/conferences/international-student-symposium-on-humanizing-technology-egs-pillay-engineering-college-1750324",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Tech Fest"
+    }
+  },
+  "https://it-security-summit.com/munich": {
+    "title": "IT Security Summit Munich",
+    "normalized_title": "it security summit munich",
+    "original_url": "https://it-security-summit.com/munich",
+    "canonical_url": "https://it-security-summit.com/munich",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "IT Security Summit Munich",
+      "url": "https://it-security-summit.com/munich",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Summit"
+    }
+  },
+  "https://unstop.com/conferences/quintessence-youth-summit-dr-akhilesh-das-gupta-institute-of-professional-studies-1750215": {
+    "title": "Quintessence Youth Summit",
+    "normalized_title": "quintessence youth summit",
+    "original_url": "https://unstop.com/conferences/quintessence-youth-summit-dr-akhilesh-das-gupta-institute-of-professional-studies-1750215",
+    "canonical_url": "https://unstop.com/conferences/quintessence-youth-summit-dr-akhilesh-das-gupta-institute-of-professional-studies-1750215",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Quintessence Youth Summit",
+      "url": "https://unstop.com/conferences/quintessence-youth-summit-dr-akhilesh-das-gupta-institute-of-professional-studies-1750215",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Summit"
+    }
+  },
+  "https://unstop.com/conferences/atmanirbhar-urja-forging-indias-sovereign-energy-future-national-techno-managerial-ideathon-leadership-confe-1742600": {
+    "title": "Atmanirbhar Urja: Forging India's Sovereign Energy Future- National Techno-Managerial Ideathon & Leadership Conference 2026–27 (IIM Visakhapatnam)",
+    "normalized_title": "atmanirbhar urja forging indias sovereign energy future national technomanagerial ideathon leadership conference 202627 iim visakhapatnam",
+    "original_url": "https://unstop.com/conferences/atmanirbhar-urja-forging-indias-sovereign-energy-future-national-techno-managerial-ideathon-leadership-confe-1742600",
+    "canonical_url": "https://unstop.com/conferences/atmanirbhar-urja-forging-indias-sovereign-energy-future-national-techno-managerial-ideathon-leadership-confe-1742600",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Atmanirbhar Urja: Forging India's Sovereign Energy Future- National Techno-Managerial Ideathon & Leadership Conference 2026–27 (IIM Visakhapatnam)",
+      "url": "https://unstop.com/conferences/atmanirbhar-urja-forging-indias-sovereign-energy-future-national-techno-managerial-ideathon-leadership-confe-1742600",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/syntronix26-international-student-symposium-on-humanizing-technology-2026-egs-pillay-engineering-college-1749655": {
+    "title": "Syntronix'26 (International Student Symposium On Humanizing Technology - 2026)",
+    "normalized_title": "syntronix26 international student symposium on humanizing technology 2026",
+    "original_url": "https://unstop.com/conferences/syntronix26-international-student-symposium-on-humanizing-technology-2026-egs-pillay-engineering-college-1749655",
+    "canonical_url": "https://unstop.com/conferences/syntronix26-international-student-symposium-on-humanizing-technology-2026-egs-pillay-engineering-college-1749655",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Syntronix'26 (International Student Symposium On Humanizing Technology - 2026)",
+      "url": "https://unstop.com/conferences/syntronix26-international-student-symposium-on-humanizing-technology-2026-egs-pillay-engineering-college-1749655",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Tech Fest"
+    }
+  },
+  "https://unstop.com/conferences/integration-of-indian-knowledge-systems-for-sustainable-development-and-technological-transformation-kalinga-1744465": {
+    "title": "Integration of Indian Knowledge Systems for Sustainable Development and Technological Transformation",
+    "normalized_title": "integration of indian knowledge systems for sustainable development and technological transformation",
+    "original_url": "https://unstop.com/conferences/integration-of-indian-knowledge-systems-for-sustainable-development-and-technological-transformation-kalinga-1744465",
+    "canonical_url": "https://unstop.com/conferences/integration-of-indian-knowledge-systems-for-sustainable-development-and-technological-transformation-kalinga-1744465",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Integration of Indian Knowledge Systems for Sustainable Development and Technological Transformation",
+      "url": "https://unstop.com/conferences/integration-of-indian-knowledge-systems-for-sustainable-development-and-technological-transformation-kalinga-1744465",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/stem-masters-festival-bengaluru-seed-global-education-services-private-limited-1728828": {
+    "title": "STEM Masters Festival - Bengaluru",
+    "normalized_title": "stem masters festival bengaluru",
+    "original_url": "https://unstop.com/conferences/stem-masters-festival-bengaluru-seed-global-education-services-private-limited-1728828",
+    "canonical_url": "https://unstop.com/conferences/stem-masters-festival-bengaluru-seed-global-education-services-private-limited-1728828",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "STEM Masters Festival - Bengaluru",
+      "url": "https://unstop.com/conferences/stem-masters-festival-bengaluru-seed-global-education-services-private-limited-1728828",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Tech Fest"
+    }
+  },
+  "https://unstop.com/conferences/two-day-global-conference-on-emerging-trends-in-artificial-intelligence-comparative-approaches-of-legal-gove-1731867": {
+    "title": "Two-Day Global Conference on Emerging Trends in Artificial Intelligence: Comparative Approaches of Legal Governance",
+    "normalized_title": "twoday global conference on emerging trends in artificial intelligence comparative approaches of legal governance",
+    "original_url": "https://unstop.com/conferences/two-day-global-conference-on-emerging-trends-in-artificial-intelligence-comparative-approaches-of-legal-gove-1731867",
+    "canonical_url": "https://unstop.com/conferences/two-day-global-conference-on-emerging-trends-in-artificial-intelligence-comparative-approaches-of-legal-gove-1731867",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Two-Day Global Conference on Emerging Trends in Artificial Intelligence: Comparative Approaches of Legal Governance",
+      "url": "https://unstop.com/conferences/two-day-global-conference-on-emerging-trends-in-artificial-intelligence-comparative-approaches-of-legal-gove-1731867",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/international-conference-on-ai-driven-scientific-innovations-for-sustainable-development-goals-kalinga-unive-1739105": {
+    "title": "International Conference on AI-Driven Scientific Innovations for Sustainable Development Goals",
+    "normalized_title": "international conference on aidriven scientific innovations for sustainable development goals",
+    "original_url": "https://unstop.com/conferences/international-conference-on-ai-driven-scientific-innovations-for-sustainable-development-goals-kalinga-unive-1739105",
+    "canonical_url": "https://unstop.com/conferences/international-conference-on-ai-driven-scientific-innovations-for-sustainable-development-goals-kalinga-unive-1739105",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "International Conference on AI-Driven Scientific Innovations for Sustainable Development Goals",
+      "url": "https://unstop.com/conferences/international-conference-on-ai-driven-scientific-innovations-for-sustainable-development-goals-kalinga-unive-1739105",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/international-conference-on-digital-intelligence-ai-cybersecurity-and-computing-for-a-sustainable-future-kal-1730432": {
+    "title": "International Conference on Digital Intelligence: AI, Cybersecurity and Computing for a Sustainable Future",
+    "normalized_title": "international conference on digital intelligence ai cybersecurity and computing for a sustainable future",
+    "original_url": "https://unstop.com/conferences/international-conference-on-digital-intelligence-ai-cybersecurity-and-computing-for-a-sustainable-future-kal-1730432",
+    "canonical_url": "https://unstop.com/conferences/international-conference-on-digital-intelligence-ai-cybersecurity-and-computing-for-a-sustainable-future-kal-1730432",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "International Conference on Digital Intelligence: AI, Cybersecurity and Computing for a Sustainable Future",
+      "url": "https://unstop.com/conferences/international-conference-on-digital-intelligence-ai-cybersecurity-and-computing-for-a-sustainable-future-kal-1730432",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662": {
+    "title": "13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)",
+    "normalized_title": "13th interdisciplinary conference on health humanities technology and management research ichtmr 2026",
+    "original_url": "https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662",
+    "canonical_url": "https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)",
+      "url": "https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546": {
+    "title": "International Conference on AI for Humanity: Leveraging indian knowledge systems to accelerate sustainable development goals",
+    "normalized_title": "international conference on ai for humanity leveraging indian knowledge systems to accelerate sustainable development goals",
+    "original_url": "https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546",
+    "canonical_url": "https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "International Conference on AI for Humanity: Leveraging indian knowledge systems to accelerate sustainable development goals",
+      "url": "https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/international-conference-on-innovations-in-computer-science-and-engineering-international-conference-on-inno-1728027": {
+    "title": "International Conference on Innovations in Computer Science and Engineering",
+    "normalized_title": "international conference on innovations in computer science and engineering",
+    "original_url": "https://unstop.com/conferences/international-conference-on-innovations-in-computer-science-and-engineering-international-conference-on-inno-1728027",
+    "canonical_url": "https://unstop.com/conferences/international-conference-on-innovations-in-computer-science-and-engineering-international-conference-on-inno-1728027",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "International Conference on Innovations in Computer Science and Engineering",
+      "url": "https://unstop.com/conferences/international-conference-on-innovations-in-computer-science-and-engineering-international-conference-on-inno-1728027",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/global-design-thinking-alliance-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1717544": {
+    "title": "Global Design Thinking Alliance",
+    "normalized_title": "global design thinking alliance",
+    "original_url": "https://unstop.com/conferences/global-design-thinking-alliance-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1717544",
+    "canonical_url": "https://unstop.com/conferences/global-design-thinking-alliance-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1717544",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Global Design Thinking Alliance",
+      "url": "https://unstop.com/conferences/global-design-thinking-alliance-sns-college-of-technology-snsct-coimbatore-tamil-nadu-1717544",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://unstop.com/conferences/international-conference-on-business-transformation-in-the-age-of-ai-sustainability-and-inclusive-growth-202-1739280": {
+    "title": "International Conference on Business Transformation in the Age of AI, Sustainability and Inclusive Growth 2027 (ICBTAISG–2027)",
+    "normalized_title": "international conference on business transformation in the age of ai sustainability and inclusive growth 2027 icbtaisg2027",
+    "original_url": "https://unstop.com/conferences/international-conference-on-business-transformation-in-the-age-of-ai-sustainability-and-inclusive-growth-202-1739280",
+    "canonical_url": "https://unstop.com/conferences/international-conference-on-business-transformation-in-the-age-of-ai-sustainability-and-inclusive-growth-202-1739280",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "International Conference on Business Transformation in the Age of AI, Sustainability and Inclusive Growth 2027 (ICBTAISG–2027)",
+      "url": "https://unstop.com/conferences/international-conference-on-business-transformation-in-the-age-of-ai-sustainability-and-inclusive-growth-202-1739280",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Conference"
+    }
+  },
+  "https://webinale.com/munich": {
+    "title": "webinale Munich",
+    "normalized_title": "webinale munich",
+    "original_url": "https://webinale.com/munich",
+    "canonical_url": "https://webinale.com/munich",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "webinale Munich",
+      "url": "https://webinale.com/munich",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Conference"
+    }
+  },
+  "https://developer.apple.com/wwdc26": {
+    "title": "Apple Worldwide Developers Conference (WWDC 2026)",
+    "normalized_title": "apple worldwide developers conference wwdc 2026",
+    "original_url": "https://developer.apple.com/wwdc26/",
+    "canonical_url": "https://developer.apple.com/wwdc26",
+    "category": "Developer & Open Source Confs",
+    "platform": "Official Apple",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Apple Worldwide Developers Conference (WWDC 2026)",
+      "url": "https://developer.apple.com/wwdc26/",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Official Apple",
+      "event_type": "Conference"
+    }
+  },
+  "https://www.nvidia.com/gtc": {
+    "title": "NVIDIA GTC (GPU Technology Conference) 2026",
+    "normalized_title": "nvidia gtc gpu technology conference 2026",
+    "original_url": "https://www.nvidia.com/gtc/",
+    "canonical_url": "https://www.nvidia.com/gtc",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Official NVIDIA",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "NVIDIA GTC (GPU Technology Conference) 2026",
+      "url": "https://www.nvidia.com/gtc/",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Official NVIDIA",
+      "event_type": "Conference"
+    }
+  },
+  "https://io.google/2026": {
+    "title": "Google I/O & Cloud Next 2026",
+    "normalized_title": "google io cloud next 2026",
+    "original_url": "https://io.google/2026/",
+    "canonical_url": "https://io.google/2026",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Official Google",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Google I/O & Cloud Next 2026",
+      "url": "https://io.google/2026/",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Official Google",
+      "event_type": "Conference"
+    }
+  },
+  "https://vartusconferences.com/aibda": {
+    "title": "2nd International Conference on Artificial Intelligence and Big Data Analytics",
+    "normalized_title": "2nd international conference on artificial intelligence and big data analytics",
+    "original_url": "https://vartusconferences.com/aibda",
+    "canonical_url": "https://vartusconferences.com/aibda",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "2nd International Conference on Artificial Intelligence and Big Data Analytics",
+      "url": "https://vartusconferences.com/aibda",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://tessl.io/devcon": {
+    "title": "AI DevCon NYC",
+    "normalized_title": "ai devcon nyc",
+    "original_url": "https://tessl.io/devcon",
+    "canonical_url": "https://tessl.io/devcon",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (SECURITY)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "AI DevCon NYC",
+      "url": "https://tessl.io/devcon",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (SECURITY)",
+      "event_type": "Conference"
+    }
+  },
+  "https://vividglobalsummits.com/2027/artificial-intelligence": {
+    "title": "Annual Global Summit on Artificial Intelligence and Machine Learning",
+    "normalized_title": "annual global summit on artificial intelligence and machine learning",
+    "original_url": "https://vividglobalsummits.com/2027/artificial-intelligence",
+    "canonical_url": "https://vividglobalsummits.com/2027/artificial-intelligence",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Annual Global Summit on Artificial Intelligence and Machine Learning",
+      "url": "https://vividglobalsummits.com/2027/artificial-intelligence",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Summit"
+    }
+  },
+  "https://vividglobalsummits.com/2027/agsrobot": {
+    "title": "Annual Global Summit on Robotics, AI and Machine Learning",
+    "normalized_title": "annual global summit on robotics ai and machine learning",
+    "original_url": "https://vividglobalsummits.com/2027/agsrobot",
+    "canonical_url": "https://vividglobalsummits.com/2027/agsrobot",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Annual Global Summit on Robotics, AI and Machine Learning",
+      "url": "https://vividglobalsummits.com/2027/agsrobot",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Summit"
+    }
+  },
+  "https://software-architecture-summit.de/berlin": {
+    "title": "Software Architecture Summit",
+    "normalized_title": "software architecture summit",
+    "original_url": "https://software-architecture-summit.de/berlin",
+    "canonical_url": "https://software-architecture-summit.de/berlin",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Software Architecture Summit",
+      "url": "https://software-architecture-summit.de/berlin",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Summit"
+    }
+  },
+  "https://theconf.ai/call-for-papers": {
+    "title": "The AI Conf - Call for Speakers",
+    "normalized_title": "the ai conf call for speakers",
+    "original_url": "https://theconf.ai/call-for-papers",
+    "canonical_url": "https://theconf.ai/call-for-papers",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "CFP Radar (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "The AI Conf - Call for Speakers",
+      "url": "https://theconf.ai/call-for-papers",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "CFP Radar (DATA)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form": {
+    "title": "Big Data Europe - Call for Speakers",
+    "normalized_title": "big data europe call for speakers",
+    "original_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+    "canonical_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "CFP Radar (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Big Data Europe - Call for Speakers",
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "CFP Radar (DATA)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://sessionize.com/ai-native-devcon-nyc-2026": {
+    "title": "AI DevCon NYC - Call for Speakers",
+    "normalized_title": "ai devcon nyc call for speakers",
+    "original_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+    "canonical_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "CFP Radar (SECURITY)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "AI DevCon NYC - Call for Speakers",
+      "url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "CFP Radar (SECURITY)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://datascience.novelticsconferences.com/register": {
+    "title": "Global Summit on Data Science and Cloud Computing - Call for Speakers",
+    "normalized_title": "global summit on data science and cloud computing call for speakers",
+    "original_url": "https://datascience.novelticsconferences.com/register",
+    "canonical_url": "https://datascience.novelticsconferences.com/register",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "CFP Radar (PYTHON)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Global Summit on Data Science and Cloud Computing - Call for Speakers",
+      "url": "https://datascience.novelticsconferences.com/register",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "CFP Radar (PYTHON)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://builditsummit.com/call-for-speakers": {
+    "title": "Build It Summit - Call for Speakers",
+    "normalized_title": "build it summit call for speakers",
+    "original_url": "https://builditsummit.com/call-for-speakers",
+    "canonical_url": "https://builditsummit.com/call-for-speakers",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "CFP Radar (DEVOPS)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Build It Summit - Call for Speakers",
+      "url": "https://builditsummit.com/call-for-speakers",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "CFP Radar (DEVOPS)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://mlconference.ai/berlin": {
+    "title": "MLCon Berlin",
+    "normalized_title": "mlcon berlin",
+    "original_url": "https://mlconference.ai/berlin",
+    "canonical_url": "https://mlconference.ai/berlin",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "MLCon Berlin",
+      "url": "https://mlconference.ai/berlin",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://vibekode.it/berlin": {
+    "title": "VibeKode Berlin",
+    "normalized_title": "vibekode berlin",
+    "original_url": "https://vibekode.it/berlin",
+    "canonical_url": "https://vibekode.it/berlin",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "VibeKode Berlin",
+      "url": "https://vibekode.it/berlin",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Conference"
+    }
+  },
+  "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit": {
+    "title": "Unhacked 360 Germany: FutureSec Summit",
+    "normalized_title": "unhacked 360 germany futuresec summit",
+    "original_url": "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit",
+    "canonical_url": "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit",
+    "category": "Developer & Open Source Confs",
+    "platform": "Confs.tech (SECURITY)",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Unhacked 360 Germany: FutureSec Summit",
+      "url": "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit",
+      "category": "Developer & Open Source Confs",
+      "platform_or_source": "Confs.tech (SECURITY)",
+      "event_type": "Summit"
+    }
+  },
+  "https://build.microsoft.com": {
+    "title": "Microsoft Build 2026",
+    "normalized_title": "microsoft build 2026",
+    "original_url": "https://build.microsoft.com/",
+    "canonical_url": "https://build.microsoft.com",
+    "category": "AI, Cloud & Data Summits",
+    "platform": "Microsoft",
+    "sent_at": "2026-09-25T17:08:27.126651+00:00",
+    "metadata": {
+      "title": "Microsoft Build 2026",
+      "url": "https://build.microsoft.com/",
+      "category": "AI, Cloud & Data Summits",
+      "platform_or_source": "Microsoft",
+      "event_type": "Summit"
+    }
+  }
+}
