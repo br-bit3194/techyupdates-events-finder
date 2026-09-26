@@ -20,7 +20,6 @@ def generate_telegram_caption(records: List[TechEventRecord]) -> str:
     """Generate high-converting, clean Markdown caption for Telegram channel broadcast."""
     today_str = datetime.now(timezone.utc).strftime("%d %b %Y")
     total_count = len(records)
-    channel_handle = os.getenv("TELEGRAM_COMMUNITY_CHANNEL_ID") or os.getenv("TELEGRAM_CHANNEL_ID", "@techy_events_updates")
 
     # Count by category
     ai_count = sum(1 for r in records if r.category == "AI, Cloud & Data Summits")
@@ -63,8 +62,6 @@ def generate_telegram_caption(records: List[TechEventRecord]) -> str:
     caption_lines.extend([
         "",
         "📁 *Attached Workbook:* Complete 4-tab spreadsheet with direct registration links, deadlines, speaker CFPs, and tracks.",
-        "",
-        f"📢 *Channel:* {channel_handle} | *Automated Daily Radar*",
     ])
 
     return "\n".join(caption_lines)

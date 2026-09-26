@@ -224,8 +224,7 @@ def test_telegram_caption_generation():
     assert "TechyUpdates Tech Events & Conferences Drop" in caption
     assert "AI, Cloud & Data Summits" in caption
     assert "Google I/O 2026" in caption
-    expected_channel = os.getenv("TELEGRAM_COMMUNITY_CHANNEL_ID") or os.getenv("TELEGRAM_CHANNEL_ID", "@techy_events_updates")
-    assert expected_channel in caption
+    assert "Attached Workbook" in caption
 
 
 def test_is_recent_or_past_24h_posted():
