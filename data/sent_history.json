@@ -1214,5 +1214,341 @@
       "platform_or_source": "Microsoft",
       "event_type": "Summit"
     }
+  },
+  "https://unstop.com/workshops-webinars/the-ai-transformation-of-work-inside-modern-tech-teams-techbairn-1761737": {
+    "title": "The AI Transformation of Work: Inside Modern Tech Teams",
+    "normalized_title": "the ai transformation of work inside modern tech teams",
+    "original_url": "https://unstop.com/workshops-webinars/the-ai-transformation-of-work-inside-modern-tech-teams-techbairn-1761737",
+    "canonical_url": "https://unstop.com/workshops-webinars/the-ai-transformation-of-work-inside-modern-tech-teams-techbairn-1761737",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050033+00:00",
+    "metadata": {
+      "title": "The AI Transformation of Work: Inside Modern Tech Teams",
+      "url": "https://unstop.com/workshops-webinars/the-ai-transformation-of-work-inside-modern-tech-teams-techbairn-1761737",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/gen-ai-transforming-the-way-we-work-and-learn-techbairn-1761746": {
+    "title": "Gen AI: Transforming the Way We Work and Learn",
+    "normalized_title": "gen ai transforming the way we work and learn",
+    "original_url": "https://unstop.com/workshops-webinars/gen-ai-transforming-the-way-we-work-and-learn-techbairn-1761746",
+    "canonical_url": "https://unstop.com/workshops-webinars/gen-ai-transforming-the-way-we-work-and-learn-techbairn-1761746",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050067+00:00",
+    "metadata": {
+      "title": "Gen AI: Transforming the Way We Work and Learn",
+      "url": "https://unstop.com/workshops-webinars/gen-ai-transforming-the-way-we-work-and-learn-techbairn-1761746",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/illuminate-2026-entrepreneurship-workshop-chhatrapati-shivaji-maharaj-university-csmu-navi-mumbai-1758894": {
+    "title": "Illuminate 2026 – Entrepreneurship Workshop",
+    "normalized_title": "illuminate 2026 entrepreneurship workshop",
+    "original_url": "https://unstop.com/workshops-webinars/illuminate-2026-entrepreneurship-workshop-chhatrapati-shivaji-maharaj-university-csmu-navi-mumbai-1758894",
+    "canonical_url": "https://unstop.com/workshops-webinars/illuminate-2026-entrepreneurship-workshop-chhatrapati-shivaji-maharaj-university-csmu-navi-mumbai-1758894",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050091+00:00",
+    "metadata": {
+      "title": "Illuminate 2026 – Entrepreneurship Workshop",
+      "url": "https://unstop.com/workshops-webinars/illuminate-2026-entrepreneurship-workshop-chhatrapati-shivaji-maharaj-university-csmu-navi-mumbai-1758894",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-fresher-to-full-stack-building-strong-engineering-skills-with-ai-techbairn-1761736": {
+    "title": "From Fresher to Full-Stack: Building Strong Engineering Skills with AI",
+    "normalized_title": "from fresher to fullstack building strong engineering skills with ai",
+    "original_url": "https://unstop.com/workshops-webinars/from-fresher-to-full-stack-building-strong-engineering-skills-with-ai-techbairn-1761736",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-fresher-to-full-stack-building-strong-engineering-skills-with-ai-techbairn-1761736",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050110+00:00",
+    "metadata": {
+      "title": "From Fresher to Full-Stack: Building Strong Engineering Skills with AI",
+      "url": "https://unstop.com/workshops-webinars/from-fresher-to-full-stack-building-strong-engineering-skills-with-ai-techbairn-1761736",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/beyond-the-startup-idea-what-it-really-takes-to-build-a-business-techbairn-1761754": {
+    "title": "Beyond the Startup Idea: What It Really Takes to Build a Business",
+    "normalized_title": "beyond the startup idea what it really takes to build a business",
+    "original_url": "https://unstop.com/workshops-webinars/beyond-the-startup-idea-what-it-really-takes-to-build-a-business-techbairn-1761754",
+    "canonical_url": "https://unstop.com/workshops-webinars/beyond-the-startup-idea-what-it-really-takes-to-build-a-business-techbairn-1761754",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050126+00:00",
+    "metadata": {
+      "title": "Beyond the Startup Idea: What It Really Takes to Build a Business",
+      "url": "https://unstop.com/workshops-webinars/beyond-the-startup-idea-what-it-really-takes-to-build-a-business-techbairn-1761754",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/interview-preparation-for-it-mellow-vault-1761914": {
+    "title": "Interview Preparation for IT",
+    "normalized_title": "interview preparation for it",
+    "original_url": "https://unstop.com/workshops-webinars/interview-preparation-for-it-mellow-vault-1761914",
+    "canonical_url": "https://unstop.com/workshops-webinars/interview-preparation-for-it-mellow-vault-1761914",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050141+00:00",
+    "metadata": {
+      "title": "Interview Preparation for IT",
+      "url": "https://unstop.com/workshops-webinars/interview-preparation-for-it-mellow-vault-1761914",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-student-to-data-engineer-building-an-industry-ready-career-techbairn-1761748": {
+    "title": "From Student to Data Engineer: Building an Industry-Ready Career",
+    "normalized_title": "from student to data engineer building an industryready career",
+    "original_url": "https://unstop.com/workshops-webinars/from-student-to-data-engineer-building-an-industry-ready-career-techbairn-1761748",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-student-to-data-engineer-building-an-industry-ready-career-techbairn-1761748",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050157+00:00",
+    "metadata": {
+      "title": "From Student to Data Engineer: Building an Industry-Ready Career",
+      "url": "https://unstop.com/workshops-webinars/from-student-to-data-engineer-building-an-industry-ready-career-techbairn-1761748",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-classroom-to-codebase-understanding-real-software-engineering-techbairn-1761735": {
+    "title": "From Classroom to Codebase: Understanding Real Software Engineering",
+    "normalized_title": "from classroom to codebase understanding real software engineering",
+    "original_url": "https://unstop.com/workshops-webinars/from-classroom-to-codebase-understanding-real-software-engineering-techbairn-1761735",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-classroom-to-codebase-understanding-real-software-engineering-techbairn-1761735",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050171+00:00",
+    "metadata": {
+      "title": "From Classroom to Codebase: Understanding Real Software Engineering",
+      "url": "https://unstop.com/workshops-webinars/from-classroom-to-codebase-understanding-real-software-engineering-techbairn-1761735",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/beyond-academics-building-an-industry-ready-profile-techbairn-1761755": {
+    "title": "Beyond Academics: Building an Industry-Ready Profile",
+    "normalized_title": "beyond academics building an industryready profile",
+    "original_url": "https://unstop.com/workshops-webinars/beyond-academics-building-an-industry-ready-profile-techbairn-1761755",
+    "canonical_url": "https://unstop.com/workshops-webinars/beyond-academics-building-an-industry-ready-profile-techbairn-1761755",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050186+00:00",
+    "metadata": {
+      "title": "Beyond Academics: Building an Industry-Ready Profile",
+      "url": "https://unstop.com/workshops-webinars/beyond-academics-building-an-industry-ready-profile-techbairn-1761755",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/beyond-coding-how-to-prepare-for-your-first-technical-interview-techbairn-1761753": {
+    "title": "Beyond Coding: How to Prepare for Your First Technical Interview",
+    "normalized_title": "beyond coding how to prepare for your first technical interview",
+    "original_url": "https://unstop.com/workshops-webinars/beyond-coding-how-to-prepare-for-your-first-technical-interview-techbairn-1761753",
+    "canonical_url": "https://unstop.com/workshops-webinars/beyond-coding-how-to-prepare-for-your-first-technical-interview-techbairn-1761753",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050201+00:00",
+    "metadata": {
+      "title": "Beyond Coding: How to Prepare for Your First Technical Interview",
+      "url": "https://unstop.com/workshops-webinars/beyond-coding-how-to-prepare-for-your-first-technical-interview-techbairn-1761753",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/building-your-software-career-with-real-world-engineering-skills-techbairn-1761756": {
+    "title": "Building Your Software Career with Real-World Engineering Skills",
+    "normalized_title": "building your software career with realworld engineering skills",
+    "original_url": "https://unstop.com/workshops-webinars/building-your-software-career-with-real-world-engineering-skills-techbairn-1761756",
+    "canonical_url": "https://unstop.com/workshops-webinars/building-your-software-career-with-real-world-engineering-skills-techbairn-1761756",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050218+00:00",
+    "metadata": {
+      "title": "Building Your Software Career with Real-World Engineering Skills",
+      "url": "https://unstop.com/workshops-webinars/building-your-software-career-with-real-world-engineering-skills-techbairn-1761756",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/how-modern-backend-systems-handle-millions-of-users-techbairn-1761738": {
+    "title": "How Modern Backend Systems Handle Millions of Users",
+    "normalized_title": "how modern backend systems handle millions of users",
+    "original_url": "https://unstop.com/workshops-webinars/how-modern-backend-systems-handle-millions-of-users-techbairn-1761738",
+    "canonical_url": "https://unstop.com/workshops-webinars/how-modern-backend-systems-handle-millions-of-users-techbairn-1761738",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050233+00:00",
+    "metadata": {
+      "title": "How Modern Backend Systems Handle Millions of Users",
+      "url": "https://unstop.com/workshops-webinars/how-modern-backend-systems-handle-millions-of-users-techbairn-1761738",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1761727": {
+    "title": "Cracking Technical Interviews: A Practical Guide for College Students",
+    "normalized_title": "cracking technical interviews a practical guide for college students",
+    "original_url": "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1761727",
+    "canonical_url": "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1761727",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050247+00:00",
+    "metadata": {
+      "title": "Cracking Technical Interviews: A Practical Guide for College Students",
+      "url": "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1761727",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/data-engineering-roadmap-from-learning-to-industry-techbairn-1761730": {
+    "title": "Data Engineering Roadmap: From Learning to Industry",
+    "normalized_title": "data engineering roadmap from learning to industry",
+    "original_url": "https://unstop.com/workshops-webinars/data-engineering-roadmap-from-learning-to-industry-techbairn-1761730",
+    "canonical_url": "https://unstop.com/workshops-webinars/data-engineering-roadmap-from-learning-to-industry-techbairn-1761730",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050261+00:00",
+    "metadata": {
+      "title": "Data Engineering Roadmap: From Learning to Industry",
+      "url": "https://unstop.com/workshops-webinars/data-engineering-roadmap-from-learning-to-industry-techbairn-1761730",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/what-engineering-students-actually-need-to-get-hired-techbairn-1761728": {
+    "title": "What Engineering Students Actually Need to Get Hired",
+    "normalized_title": "what engineering students actually need to get hired",
+    "original_url": "https://unstop.com/workshops-webinars/what-engineering-students-actually-need-to-get-hired-techbairn-1761728",
+    "canonical_url": "https://unstop.com/workshops-webinars/what-engineering-students-actually-need-to-get-hired-techbairn-1761728",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050274+00:00",
+    "metadata": {
+      "title": "What Engineering Students Actually Need to Get Hired",
+      "url": "https://unstop.com/workshops-webinars/what-engineering-students-actually-need-to-get-hired-techbairn-1761728",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/ioit-mun-2026-tenet-aissms-institute-of-information-technology-pune-maharashtra-1699491": {
+    "title": "IOIT MUN 2026",
+    "normalized_title": "ioit mun 2026",
+    "original_url": "https://unstop.com/conferences/ioit-mun-2026-tenet-aissms-institute-of-information-technology-pune-maharashtra-1699491",
+    "canonical_url": "https://unstop.com/conferences/ioit-mun-2026-tenet-aissms-institute-of-information-technology-pune-maharashtra-1699491",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-26T08:44:35.050287+00:00",
+    "metadata": {
+      "title": "IOIT MUN 2026",
+      "url": "https://unstop.com/conferences/ioit-mun-2026-tenet-aissms-institute-of-information-technology-pune-maharashtra-1699491",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/inside-system-software-how-cc-powers-modern-computing-techbairn-1761725": {
+    "title": "Inside System Software: How C/C++ Powers Modern Computing",
+    "normalized_title": "inside system software how cc powers modern computing",
+    "original_url": "https://unstop.com/workshops-webinars/inside-system-software-how-cc-powers-modern-computing-techbairn-1761725",
+    "canonical_url": "https://unstop.com/workshops-webinars/inside-system-software-how-cc-powers-modern-computing-techbairn-1761725",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050303+00:00",
+    "metadata": {
+      "title": "Inside System Software: How C/C++ Powers Modern Computing",
+      "url": "https://unstop.com/workshops-webinars/inside-system-software-how-cc-powers-modern-computing-techbairn-1761725",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/your-first-90-days-in-software-engineering-techbairn-1761757": {
+    "title": "Your First 90 Days in Software Engineering",
+    "normalized_title": "your first 90 days in software engineering",
+    "original_url": "https://unstop.com/workshops-webinars/your-first-90-days-in-software-engineering-techbairn-1761757",
+    "canonical_url": "https://unstop.com/workshops-webinars/your-first-90-days-in-software-engineering-techbairn-1761757",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050315+00:00",
+    "metadata": {
+      "title": "Your First 90 Days in Software Engineering",
+      "url": "https://unstop.com/workshops-webinars/your-first-90-days-in-software-engineering-techbairn-1761757",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/code-smarter-with-ai-learning-to-code-in-the-age-of-llms-techbairn-1761739": {
+    "title": "Code Smarter with AI: Learning to Code in the Age of LLMs",
+    "normalized_title": "code smarter with ai learning to code in the age of llms",
+    "original_url": "https://unstop.com/workshops-webinars/code-smarter-with-ai-learning-to-code-in-the-age-of-llms-techbairn-1761739",
+    "canonical_url": "https://unstop.com/workshops-webinars/code-smarter-with-ai-learning-to-code-in-the-age-of-llms-techbairn-1761739",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050328+00:00",
+    "metadata": {
+      "title": "Code Smarter with AI: Learning to Code in the Age of LLMs",
+      "url": "https://unstop.com/workshops-webinars/code-smarter-with-ai-learning-to-code-in-the-age-of-llms-techbairn-1761739",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/mun-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758372": {
+    "title": "MUN",
+    "normalized_title": "mun",
+    "original_url": "https://unstop.com/conferences/mun-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758372",
+    "canonical_url": "https://unstop.com/conferences/mun-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758372",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-09-26T08:44:35.050340+00:00",
+    "metadata": {
+      "title": "MUN",
+      "url": "https://unstop.com/conferences/mun-cliffesto26-national-institute-of-technology-nit-uttarakhand-1758372",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/behind-the-product-a-backend-engineers-view-of-modern-applications-techbairn-1761732": {
+    "title": "Behind the Product: A Backend Engineer's View of Modern Applications",
+    "normalized_title": "behind the product a backend engineers view of modern applications",
+    "original_url": "https://unstop.com/workshops-webinars/behind-the-product-a-backend-engineers-view-of-modern-applications-techbairn-1761732",
+    "canonical_url": "https://unstop.com/workshops-webinars/behind-the-product-a-backend-engineers-view-of-modern-applications-techbairn-1761732",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-09-26T08:44:35.050354+00:00",
+    "metadata": {
+      "title": "Behind the Product: A Backend Engineer's View of Modern Applications",
+      "url": "https://unstop.com/workshops-webinars/behind-the-product-a-backend-engineers-view-of-modern-applications-techbairn-1761732",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
