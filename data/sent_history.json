@@ -2222,5 +2222,149 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://techexevent.com/europe": {
+    "title": "TechEx Europe",
+    "normalized_title": "techex europe",
+    "original_url": "https://techexevent.com/europe",
+    "canonical_url": "https://techexevent.com/europe",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (SECURITY)",
+    "sent_at": "2026-10-02T09:57:09.884195+00:00",
+    "metadata": {
+      "title": "TechEx Europe",
+      "url": "https://techexevent.com/europe",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (SECURITY)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://techexevent.com/global": {
+    "title": "TechEx Global",
+    "normalized_title": "techex global",
+    "original_url": "https://techexevent.com/global",
+    "canonical_url": "https://techexevent.com/global",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (SECURITY)",
+    "sent_at": "2026-10-02T09:57:09.884221+00:00",
+    "metadata": {
+      "title": "TechEx Global",
+      "url": "https://techexevent.com/global",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (SECURITY)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://datacentrecongress.com/northamerica": {
+    "title": "Data Centre North America",
+    "normalized_title": "data centre north america",
+    "original_url": "https://datacentrecongress.com/northamerica",
+    "canonical_url": "https://datacentrecongress.com/northamerica",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-10-02T09:57:09.884236+00:00",
+    "metadata": {
+      "title": "Data Centre North America",
+      "url": "https://datacentrecongress.com/northamerica",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://unstop.com/workshops-webinars/the-operator-session-episode-1-beacon-indica-1764389": {
+    "title": "The Operator Session Episode 1",
+    "normalized_title": "the operator session episode 1",
+    "original_url": "https://unstop.com/workshops-webinars/the-operator-session-episode-1-beacon-indica-1764389",
+    "canonical_url": "https://unstop.com/workshops-webinars/the-operator-session-episode-1-beacon-indica-1764389",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-02T09:57:09.884249+00:00",
+    "metadata": {
+      "title": "The Operator Session Episode 1",
+      "url": "https://unstop.com/workshops-webinars/the-operator-session-episode-1-beacon-indica-1764389",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/five-days-workshop-on-agentic-ai-building-intelligent-agents-kpr-institute-of-engineering-and-technol-1764267": {
+    "title": "Five-Days Workshop on Agentic AI – Building Intelligent Agents",
+    "normalized_title": "fivedays workshop on agentic ai building intelligent agents",
+    "original_url": "https://unstop.com/workshops-webinars/five-days-workshop-on-agentic-ai-building-intelligent-agents-kpr-institute-of-engineering-and-technol-1764267",
+    "canonical_url": "https://unstop.com/workshops-webinars/five-days-workshop-on-agentic-ai-building-intelligent-agents-kpr-institute-of-engineering-and-technol-1764267",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-02T09:57:09.884266+00:00",
+    "metadata": {
+      "title": "Five-Days Workshop on Agentic AI – Building Intelligent Agents",
+      "url": "https://unstop.com/workshops-webinars/five-days-workshop-on-agentic-ai-building-intelligent-agents-kpr-institute-of-engineering-and-technol-1764267",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/national-conference-nirmaan-2026-a-social-technical-conference-rajiv-gandhi-institute-of-petroleum-technolog-1739415": {
+    "title": "National Conference: Nirmaan 2026 (A Social Technical Conference)",
+    "normalized_title": "national conference nirmaan 2026 a social technical conference",
+    "original_url": "https://unstop.com/conferences/national-conference-nirmaan-2026-a-social-technical-conference-rajiv-gandhi-institute-of-petroleum-technolog-1739415",
+    "canonical_url": "https://unstop.com/conferences/national-conference-nirmaan-2026-a-social-technical-conference-rajiv-gandhi-institute-of-petroleum-technolog-1739415",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-02T09:57:09.884280+00:00",
+    "metadata": {
+      "title": "National Conference: Nirmaan 2026 (A Social Technical Conference)",
+      "url": "https://unstop.com/conferences/national-conference-nirmaan-2026-a-social-technical-conference-rajiv-gandhi-institute-of-petroleum-technolog-1739415",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ai-in-film-making-2-days-workshop-techobytes-technologies-1764131": {
+    "title": "AI in Film Making | 2 Days Workshop",
+    "normalized_title": "ai in film making 2 days workshop",
+    "original_url": "https://unstop.com/workshops-webinars/ai-in-film-making-2-days-workshop-techobytes-technologies-1764131",
+    "canonical_url": "https://unstop.com/workshops-webinars/ai-in-film-making-2-days-workshop-techobytes-technologies-1764131",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-02T09:57:09.884292+00:00",
+    "metadata": {
+      "title": "AI in Film Making | 2 Days Workshop",
+      "url": "https://unstop.com/workshops-webinars/ai-in-film-making-2-days-workshop-techobytes-technologies-1764131",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/scaling-software-what-happens-behind-the-screen-techbairn-1762988": {
+    "title": "Scaling Software: What Happens Behind the Screen?",
+    "normalized_title": "scaling software what happens behind the screen",
+    "original_url": "https://unstop.com/workshops-webinars/scaling-software-what-happens-behind-the-screen-techbairn-1762988",
+    "canonical_url": "https://unstop.com/workshops-webinars/scaling-software-what-happens-behind-the-screen-techbairn-1762988",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-02T09:57:09.884304+00:00",
+    "metadata": {
+      "title": "Scaling Software: What Happens Behind the Screen?",
+      "url": "https://unstop.com/workshops-webinars/scaling-software-what-happens-behind-the-screen-techbairn-1762988",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/industry-institute-interaction-techkriti27-techkriti-1764332": {
+    "title": "Industry Institute Interaction | TECHKRITI | IIT KANPUR",
+    "normalized_title": "industry institute interaction techkriti iit kanpur",
+    "original_url": "https://unstop.com/workshops-webinars/industry-institute-interaction-techkriti27-techkriti-1764332",
+    "canonical_url": "https://unstop.com/workshops-webinars/industry-institute-interaction-techkriti27-techkriti-1764332",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-02T09:57:09.884316+00:00",
+    "metadata": {
+      "title": "Industry Institute Interaction | TECHKRITI | IIT KANPUR",
+      "url": "https://unstop.com/workshops-webinars/industry-institute-interaction-techkriti27-techkriti-1764332",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
