@@ -2462,5 +2462,37 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/from-code-to-connected-products-understanding-systems-software-techbairn-research-1765145": {
+    "title": "From Code to Connected Products: Understanding Systems Software",
+    "normalized_title": "from code to connected products understanding systems software",
+    "original_url": "https://unstop.com/workshops-webinars/from-code-to-connected-products-understanding-systems-software-techbairn-research-1765145",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-code-to-connected-products-understanding-systems-software-techbairn-research-1765145",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-04T09:58:33.854418+00:00",
+    "metadata": {
+      "title": "From Code to Connected Products: Understanding Systems Software",
+      "url": "https://unstop.com/workshops-webinars/from-code-to-connected-products-understanding-systems-software-techbairn-research-1765145",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/1st-international-mechanical-youth-summit-nagpur-institute-of-technology-nagpur-1764093": {
+    "title": "1st International Mechanical Youth Summit",
+    "normalized_title": "1st international mechanical youth summit",
+    "original_url": "https://unstop.com/conferences/1st-international-mechanical-youth-summit-nagpur-institute-of-technology-nagpur-1764093",
+    "canonical_url": "https://unstop.com/conferences/1st-international-mechanical-youth-summit-nagpur-institute-of-technology-nagpur-1764093",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-04T09:58:33.854447+00:00",
+    "metadata": {
+      "title": "1st International Mechanical Youth Summit",
+      "url": "https://unstop.com/conferences/1st-international-mechanical-youth-summit-nagpur-institute-of-technology-nagpur-1764093",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
   }
 }
