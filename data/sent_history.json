@@ -2494,5 +2494,37 @@
       "platform_or_source": "Unstop (Conferences)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/crack-ai-case-interviews-how-to-solve-ai-driven-business-cases-gocrackit-1765638": {
+    "title": "Crack AI Case Interviews: How to Solve AI-Driven Business Cases",
+    "normalized_title": "crack ai case interviews how to solve aidriven business cases",
+    "original_url": "https://unstop.com/workshops-webinars/crack-ai-case-interviews-how-to-solve-ai-driven-business-cases-gocrackit-1765638",
+    "canonical_url": "https://unstop.com/workshops-webinars/crack-ai-case-interviews-how-to-solve-ai-driven-business-cases-gocrackit-1765638",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-05T10:42:14.490661+00:00",
+    "metadata": {
+      "title": "Crack AI Case Interviews: How to Solve AI-Driven Business Cases",
+      "url": "https://unstop.com/workshops-webinars/crack-ai-case-interviews-how-to-solve-ai-driven-business-cases-gocrackit-1765638",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/career-skills-webinars-adore-india-1765404": {
+    "title": "Career Skills webinars",
+    "normalized_title": "career skills webinars",
+    "original_url": "https://unstop.com/workshops-webinars/career-skills-webinars-adore-india-1765404",
+    "canonical_url": "https://unstop.com/workshops-webinars/career-skills-webinars-adore-india-1765404",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-05T10:42:14.490696+00:00",
+    "metadata": {
+      "title": "Career Skills webinars",
+      "url": "https://unstop.com/workshops-webinars/career-skills-webinars-adore-india-1765404",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
