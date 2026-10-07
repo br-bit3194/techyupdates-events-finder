@@ -2670,5 +2670,21 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986": {
+    "title": "NMIMS KYB : The Business Gallery",
+    "normalized_title": "nmims kyb the business gallery",
+    "original_url": "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986",
+    "canonical_url": "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-07T10:27:05.812903+00:00",
+    "metadata": {
+      "title": "NMIMS KYB : The Business Gallery",
+      "url": "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
   }
 }
