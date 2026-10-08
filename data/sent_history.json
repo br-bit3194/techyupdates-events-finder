@@ -2686,5 +2686,37 @@
       "platform_or_source": "Unstop (Conferences)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/next-generation-mass-transfer-technologies-challenges-opportunities-jaihind-college-of-engineering-ku-1767425": {
+    "title": "Next-Generation Mass Transfer  Technologies: Challenges & Opportunities",
+    "normalized_title": "nextgeneration mass transfer technologies challenges opportunities",
+    "original_url": "https://unstop.com/workshops-webinars/next-generation-mass-transfer-technologies-challenges-opportunities-jaihind-college-of-engineering-ku-1767425",
+    "canonical_url": "https://unstop.com/workshops-webinars/next-generation-mass-transfer-technologies-challenges-opportunities-jaihind-college-of-engineering-ku-1767425",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-08T10:47:44.050800+00:00",
+    "metadata": {
+      "title": "Next-Generation Mass Transfer  Technologies: Challenges & Opportunities",
+      "url": "https://unstop.com/workshops-webinars/next-generation-mass-transfer-technologies-challenges-opportunities-jaihind-college-of-engineering-ku-1767425",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/nextgen-ai-bootcamp-build-skills-for-tomorrow-inspire-leap-pvt-ltd-1767157": {
+    "title": "NextGen AI Bootcamp: Build Skills for Tomorrow",
+    "normalized_title": "nextgen ai bootcamp build skills for tomorrow",
+    "original_url": "https://unstop.com/workshops-webinars/nextgen-ai-bootcamp-build-skills-for-tomorrow-inspire-leap-pvt-ltd-1767157",
+    "canonical_url": "https://unstop.com/workshops-webinars/nextgen-ai-bootcamp-build-skills-for-tomorrow-inspire-leap-pvt-ltd-1767157",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-08T10:47:44.050818+00:00",
+    "metadata": {
+      "title": "NextGen AI Bootcamp: Build Skills for Tomorrow",
+      "url": "https://unstop.com/workshops-webinars/nextgen-ai-bootcamp-build-skills-for-tomorrow-inspire-leap-pvt-ltd-1767157",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
