@@ -2718,5 +2718,69 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/free-7-day-java-object-oriented-programming-oop-workshop-vaultsphere-ai-technology-pvt-ltd-1768158": {
+    "title": "Free 7-Day Java Object-Oriented Programming (OOP) Workshop",
+    "normalized_title": "free 7day java objectoriented programming oop workshop",
+    "original_url": "https://unstop.com/workshops-webinars/free-7-day-java-object-oriented-programming-oop-workshop-vaultsphere-ai-technology-pvt-ltd-1768158",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-7-day-java-object-oriented-programming-oop-workshop-vaultsphere-ai-technology-pvt-ltd-1768158",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-09T10:46:31.379082+00:00",
+    "metadata": {
+      "title": "Free 7-Day Java Object-Oriented Programming (OOP) Workshop",
+      "url": "https://unstop.com/workshops-webinars/free-7-day-java-object-oriented-programming-oop-workshop-vaultsphere-ai-technology-pvt-ltd-1768158",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/ctrl-alt-speak-indraprastha-institute-of-information-technology-iiit-delhi-1768244": {
+    "title": "Ctrl + Alt + Speak",
+    "normalized_title": "ctrl alt speak",
+    "original_url": "https://unstop.com/conferences/ctrl-alt-speak-indraprastha-institute-of-information-technology-iiit-delhi-1768244",
+    "canonical_url": "https://unstop.com/conferences/ctrl-alt-speak-indraprastha-institute-of-information-technology-iiit-delhi-1768244",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-09T10:46:31.379117+00:00",
+    "metadata": {
+      "title": "Ctrl + Alt + Speak",
+      "url": "https://unstop.com/conferences/ctrl-alt-speak-indraprastha-institute-of-information-technology-iiit-delhi-1768244",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-7-day-python-oop-workshop-learn-object-oriented-programming-vaultsphere-ai-technology-pvt-ltd-1768180": {
+    "title": "Free 7-Day Python OOP Workshop – Learn Object-Oriented Programming",
+    "normalized_title": "free 7day python oop workshop learn objectoriented programming",
+    "original_url": "https://unstop.com/workshops-webinars/free-7-day-python-oop-workshop-learn-object-oriented-programming-vaultsphere-ai-technology-pvt-ltd-1768180",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-7-day-python-oop-workshop-learn-object-oriented-programming-vaultsphere-ai-technology-pvt-ltd-1768180",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-09T10:46:31.379138+00:00",
+    "metadata": {
+      "title": "Free 7-Day Python OOP Workshop – Learn Object-Oriented Programming",
+      "url": "https://unstop.com/workshops-webinars/free-7-day-python-oop-workshop-learn-object-oriented-programming-vaultsphere-ai-technology-pvt-ltd-1768180",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/14-day-full-stack-web-development-live-workshop-event-horizon-digital-1768243": {
+    "title": "14-Day Full-Stack Web Development Live Workshop",
+    "normalized_title": "14day fullstack web development live workshop",
+    "original_url": "https://unstop.com/workshops-webinars/14-day-full-stack-web-development-live-workshop-event-horizon-digital-1768243",
+    "canonical_url": "https://unstop.com/workshops-webinars/14-day-full-stack-web-development-live-workshop-event-horizon-digital-1768243",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-09T10:46:31.379150+00:00",
+    "metadata": {
+      "title": "14-Day Full-Stack Web Development Live Workshop",
+      "url": "https://unstop.com/workshops-webinars/14-day-full-stack-web-development-live-workshop-event-horizon-digital-1768243",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
