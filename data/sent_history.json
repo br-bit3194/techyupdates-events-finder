@@ -2782,5 +2782,37 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://forms.gle/gRGNcMAqbwxPaYpC6": {
+    "title": "VIC AI Boom - Call for Speakers",
+    "normalized_title": "vic ai boom call for speakers",
+    "original_url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+    "canonical_url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "CFP Radar (PYTHON)",
+    "sent_at": "2026-10-10T10:01:39.832806+00:00",
+    "metadata": {
+      "title": "VIC AI Boom - Call for Speakers",
+      "url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "CFP Radar (PYTHON)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://unstop.com/workshops-webinars/verbal-communication-mannerisms-the-spark-that-begins-filtering-zeroes-rootifying-ganeshi-lal-bajaj-i-1768516": {
+    "title": "Verbal Communication & Mannerisms | The Spark That Begins Filtering Zeroes: Rootifying",
+    "normalized_title": "verbal communication mannerisms the spark that begins filtering zeroes rootifying",
+    "original_url": "https://unstop.com/workshops-webinars/verbal-communication-mannerisms-the-spark-that-begins-filtering-zeroes-rootifying-ganeshi-lal-bajaj-i-1768516",
+    "canonical_url": "https://unstop.com/workshops-webinars/verbal-communication-mannerisms-the-spark-that-begins-filtering-zeroes-rootifying-ganeshi-lal-bajaj-i-1768516",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-10T10:01:39.832874+00:00",
+    "metadata": {
+      "title": "Verbal Communication & Mannerisms | The Spark That Begins Filtering Zeroes: Rootifying",
+      "url": "https://unstop.com/workshops-webinars/verbal-communication-mannerisms-the-spark-that-begins-filtering-zeroes-rootifying-ganeshi-lal-bajaj-i-1768516",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
