@@ -2814,5 +2814,53 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418": {
+    "title": "Yuvaan – Youth Conclave",
+    "normalized_title": "yuvaan youth conclave",
+    "original_url": "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418",
+    "canonical_url": "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-11T10:11:52.376058+00:00",
+    "metadata": {
+      "title": "Yuvaan – Youth Conclave",
+      "url": "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673": {
+    "title": "Navigating the Job Market Webinar",
+    "normalized_title": "navigating the job market webinar",
+    "original_url": "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673",
+    "canonical_url": "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-11T10:11:52.376092+00:00",
+    "metadata": {
+      "title": "Navigating the Job Market Webinar",
+      "url": "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549": {
+    "title": "National Student Workshop on iOS App Development",
+    "normalized_title": "national student workshop on ios app development",
+    "original_url": "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549",
+    "canonical_url": "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-11T10:11:52.376115+00:00",
+    "metadata": {
+      "title": "National Student Workshop on iOS App Development",
+      "url": "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
