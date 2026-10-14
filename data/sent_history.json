@@ -3198,5 +3198,69 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138": {
+    "title": "Building a Generative AI App Using AWS PartyRock",
+    "normalized_title": "building a generative ai app using aws partyrock",
+    "original_url": "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138",
+    "canonical_url": "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-14T08:53:54.651386+00:00",
+    "metadata": {
+      "title": "Building a Generative AI App Using AWS PartyRock",
+      "url": "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868": {
+    "title": "Gwalior AI Summit 2026 – Research Paper & Poster Presentation Competition",
+    "normalized_title": "gwalior ai summit 2026 research paper poster presentation competition",
+    "original_url": "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868",
+    "canonical_url": "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-14T08:53:54.651414+00:00",
+    "metadata": {
+      "title": "Gwalior AI Summit 2026 – Research Paper & Poster Presentation Competition",
+      "url": "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173": {
+    "title": "Full Stack Python with Generative AI Workshop",
+    "normalized_title": "full stack python with generative ai workshop",
+    "original_url": "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173",
+    "canonical_url": "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-14T08:53:54.651427+00:00",
+    "metadata": {
+      "title": "Full Stack Python with Generative AI Workshop",
+      "url": "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731": {
+    "title": "BuildNext Open Source Awareness & Practical Bug-Fixing Challenge",
+    "normalized_title": "buildnext open source awareness practical bugfixing challenge",
+    "original_url": "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731",
+    "canonical_url": "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-14T08:53:54.651439+00:00",
+    "metadata": {
+      "title": "BuildNext Open Source Awareness & Practical Bug-Fixing Challenge",
+      "url": "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
