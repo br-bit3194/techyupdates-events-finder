@@ -3262,5 +3262,69 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354": {
+    "title": "SI Agents Building Using Super Intelligence",
+    "normalized_title": "si agents building using super intelligence",
+    "original_url": "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354",
+    "canonical_url": "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-15T08:28:40.140097+00:00",
+    "metadata": {
+      "title": "SI Agents Building Using Super Intelligence",
+      "url": "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382": {
+    "title": "When Security AI Becomes the Attack Surface: Attacking and Defending AI Agents in Security Operations.",
+    "normalized_title": "when security ai becomes the attack surface attacking and defending ai agents in security operations",
+    "original_url": "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382",
+    "canonical_url": "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-15T08:28:40.140124+00:00",
+    "metadata": {
+      "title": "When Security AI Becomes the Attack Surface: Attacking and Defending AI Agents in Security Operations.",
+      "url": "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629": {
+    "title": "Free GCP Data Engineer Workshop",
+    "normalized_title": "free gcp data engineer workshop",
+    "original_url": "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-15T08:28:40.140136+00:00",
+    "metadata": {
+      "title": "Free GCP Data Engineer Workshop",
+      "url": "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343": {
+    "title": "Silicon Rush",
+    "normalized_title": "silicon rush",
+    "original_url": "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343",
+    "canonical_url": "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-15T08:28:40.140145+00:00",
+    "metadata": {
+      "title": "Silicon Rush",
+      "url": "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
