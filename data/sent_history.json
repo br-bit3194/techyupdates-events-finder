@@ -3326,5 +3326,53 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/conferences/ieee-cs-day-2026-quantum-and-ai-srm-university-vadapalani-1770748": {
+    "title": "IEEE CS Day 2026: Quantum and AI",
+    "normalized_title": "ieee cs day 2026 quantum and ai",
+    "original_url": "https://unstop.com/conferences/ieee-cs-day-2026-quantum-and-ai-srm-university-vadapalani-1770748",
+    "canonical_url": "https://unstop.com/conferences/ieee-cs-day-2026-quantum-and-ai-srm-university-vadapalani-1770748",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-16T08:21:41.620473+00:00",
+    "metadata": {
+      "title": "IEEE CS Day 2026: Quantum and AI",
+      "url": "https://unstop.com/conferences/ieee-cs-day-2026-quantum-and-ai-srm-university-vadapalani-1770748",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/auto-enerbot-hands-on-workshop-on-building-autonomous-robot-for-intelligent-energy-optimisation-srm-i-1771081": {
+    "title": "AUTO - ENERBOT (Hands-on Workshop on building Autonomous Robot for Intelligent Energy Optimisation)",
+    "normalized_title": "auto enerbot handson workshop on building autonomous robot for intelligent energy optimisation",
+    "original_url": "https://unstop.com/workshops-webinars/auto-enerbot-hands-on-workshop-on-building-autonomous-robot-for-intelligent-energy-optimisation-srm-i-1771081",
+    "canonical_url": "https://unstop.com/workshops-webinars/auto-enerbot-hands-on-workshop-on-building-autonomous-robot-for-intelligent-energy-optimisation-srm-i-1771081",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-16T08:21:41.620497+00:00",
+    "metadata": {
+      "title": "AUTO - ENERBOT (Hands-on Workshop on building Autonomous Robot for Intelligent Energy Optimisation)",
+      "url": "https://unstop.com/workshops-webinars/auto-enerbot-hands-on-workshop-on-building-autonomous-robot-for-intelligent-energy-optimisation-srm-i-1771081",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/webinar-on-automating-trading-strategies-using-algorithms-nal-academy-1770769": {
+    "title": "Webinar on Automating Trading Strategies using Algorithms",
+    "normalized_title": "webinar on automating trading strategies using algorithms",
+    "original_url": "https://unstop.com/workshops-webinars/webinar-on-automating-trading-strategies-using-algorithms-nal-academy-1770769",
+    "canonical_url": "https://unstop.com/workshops-webinars/webinar-on-automating-trading-strategies-using-algorithms-nal-academy-1770769",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-16T08:21:41.620510+00:00",
+    "metadata": {
+      "title": "Webinar on Automating Trading Strategies using Algorithms",
+      "url": "https://unstop.com/workshops-webinars/webinar-on-automating-trading-strategies-using-algorithms-nal-academy-1770769",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
