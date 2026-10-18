@@ -3502,5 +3502,37 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107": {
+    "title": "AWS Builder Community Interaction Session | Mandsaur University",
+    "normalized_title": "aws builder community interaction session mandsaur university",
+    "original_url": "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107",
+    "canonical_url": "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-18T08:11:53.035975+00:00",
+    "metadata": {
+      "title": "AWS Builder Community Interaction Session | Mandsaur University",
+      "url": "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828": {
+    "title": "Capital Markets Workshop",
+    "normalized_title": "capital markets workshop",
+    "original_url": "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828",
+    "canonical_url": "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-18T08:11:53.036008+00:00",
+    "metadata": {
+      "title": "Capital Markets Workshop",
+      "url": "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
