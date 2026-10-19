@@ -3534,5 +3534,69 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/how-to-become-full-stack-developer-using-ai-upsc-zone-ai-1772077": {
+    "title": "How to Become Full Stack Developer using AI",
+    "normalized_title": "how to become full stack developer using ai",
+    "original_url": "https://unstop.com/workshops-webinars/how-to-become-full-stack-developer-using-ai-upsc-zone-ai-1772077",
+    "canonical_url": "https://unstop.com/workshops-webinars/how-to-become-full-stack-developer-using-ai-upsc-zone-ai-1772077",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-19T09:09:13.530187+00:00",
+    "metadata": {
+      "title": "How to Become Full Stack Developer using AI",
+      "url": "https://unstop.com/workshops-webinars/how-to-become-full-stack-developer-using-ai-upsc-zone-ai-1772077",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ai-agents-masterclass-acharya-institute-of-technology-1771956": {
+    "title": "AI agents masterclass",
+    "normalized_title": "ai agents masterclass",
+    "original_url": "https://unstop.com/workshops-webinars/ai-agents-masterclass-acharya-institute-of-technology-1771956",
+    "canonical_url": "https://unstop.com/workshops-webinars/ai-agents-masterclass-acharya-institute-of-technology-1771956",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-19T09:09:13.530224+00:00",
+    "metadata": {
+      "title": "AI agents masterclass",
+      "url": "https://unstop.com/workshops-webinars/ai-agents-masterclass-acharya-institute-of-technology-1771956",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-full-stack-python-with-gen-ai-workshop-online-offline-quality-thought-quality-thought-info-syste-1772081": {
+    "title": "Free Full Stack Python with Gen AI Workshop | Online & Offline | Quality Thought",
+    "normalized_title": "free full stack python with gen ai workshop online offline quality thought",
+    "original_url": "https://unstop.com/workshops-webinars/free-full-stack-python-with-gen-ai-workshop-online-offline-quality-thought-quality-thought-info-syste-1772081",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-full-stack-python-with-gen-ai-workshop-online-offline-quality-thought-quality-thought-info-syste-1772081",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-19T09:09:13.530252+00:00",
+    "metadata": {
+      "title": "Free Full Stack Python with Gen AI Workshop | Online & Offline | Quality Thought",
+      "url": "https://unstop.com/workshops-webinars/free-full-stack-python-with-gen-ai-workshop-online-offline-quality-thought-quality-thought-info-syste-1772081",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/anveshan-where-curiosity-becomes-clarity-the-tedx-conference-kirori-mal-college-kmc-du-delhi-1768945": {
+    "title": "Anveshan-Where Curiosity Becomes Clarity | The TEDx Conference",
+    "normalized_title": "anveshanwhere curiosity becomes clarity the tedx conference",
+    "original_url": "https://unstop.com/conferences/anveshan-where-curiosity-becomes-clarity-the-tedx-conference-kirori-mal-college-kmc-du-delhi-1768945",
+    "canonical_url": "https://unstop.com/conferences/anveshan-where-curiosity-becomes-clarity-the-tedx-conference-kirori-mal-college-kmc-du-delhi-1768945",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-19T09:09:13.530312+00:00",
+    "metadata": {
+      "title": "Anveshan-Where Curiosity Becomes Clarity | The TEDx Conference",
+      "url": "https://unstop.com/conferences/anveshan-where-curiosity-becomes-clarity-the-tedx-conference-kirori-mal-college-kmc-du-delhi-1768945",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
   }
 }
