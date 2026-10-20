@@ -3598,5 +3598,85 @@
       "platform_or_source": "Unstop (Conferences)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277": {
+    "title": "Vidhi Vaad - Debate Competition (National-Level)",
+    "normalized_title": "vidhi vaad debate competition nationallevel",
+    "original_url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
+    "canonical_url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-20T08:44:40.623925+00:00",
+    "metadata": {
+      "title": "Vidhi Vaad - Debate Competition (National-Level)",
+      "url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325": {
+    "title": "National Mediation Competition",
+    "normalized_title": "national mediation competition",
+    "original_url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
+    "canonical_url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-20T08:44:40.623950+00:00",
+    "metadata": {
+      "title": "National Mediation Competition",
+      "url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540": {
+    "title": "Give a solution to a problem.",
+    "normalized_title": "give a solution to a problem",
+    "original_url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540",
+    "canonical_url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-20T08:44:40.623965+00:00",
+    "metadata": {
+      "title": "Give a solution to a problem.",
+      "url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231": {
+    "title": "Pioneering B2B SaaS Firm",
+    "normalized_title": "pioneering b2b saas firm",
+    "original_url": "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231",
+    "canonical_url": "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-20T08:44:40.623978+00:00",
+    "metadata": {
+      "title": "Pioneering B2B SaaS Firm",
+      "url": "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237": {
+    "title": "Founder Fireside and Interactive Session with Wingwoman.sim",
+    "normalized_title": "founder fireside and interactive session with wingwomansim",
+    "original_url": "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237",
+    "canonical_url": "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-20T08:44:40.623991+00:00",
+    "metadata": {
+      "title": "Founder Fireside and Interactive Session with Wingwoman.sim",
+      "url": "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
