@@ -3694,5 +3694,85 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174": {
+    "title": "SIH 2026 Finalist Webinar: From Shortlisting to Grand Finale",
+    "normalized_title": "sih 2026 finalist webinar from shortlisting to grand finale",
+    "original_url": "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174",
+    "canonical_url": "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-22T08:47:40.210489+00:00",
+    "metadata": {
+      "title": "SIH 2026 Finalist Webinar: From Shortlisting to Grand Finale",
+      "url": "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879": {
+    "title": "Alankar 2026: The Leadership Talk Series",
+    "normalized_title": "alankar 2026 the leadership talk series",
+    "original_url": "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879",
+    "canonical_url": "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-22T08:47:40.210532+00:00",
+    "metadata": {
+      "title": "Alankar 2026: The Leadership Talk Series",
+      "url": "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329": {
+    "title": "Free Cyber Security with AI Workshop – Quality Thought",
+    "normalized_title": "free cyber security with ai workshop quality thought",
+    "original_url": "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-22T08:47:40.210555+00:00",
+    "metadata": {
+      "title": "Free Cyber Security with AI Workshop – Quality Thought",
+      "url": "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460": {
+    "title": "Build Your First Portfolio Website",
+    "normalized_title": "build your first portfolio website",
+    "original_url": "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460",
+    "canonical_url": "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-22T08:47:40.210570+00:00",
+    "metadata": {
+      "title": "Build Your First Portfolio Website",
+      "url": "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695": {
+    "title": "Day 2: Workshop",
+    "normalized_title": "day 2 workshop",
+    "original_url": "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695",
+    "canonical_url": "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-22T08:47:40.210584+00:00",
+    "metadata": {
+      "title": "Day 2: Workshop",
+      "url": "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
