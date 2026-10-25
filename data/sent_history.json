@@ -4046,5 +4046,341 @@
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/biomimicry-iit-madras-1774790": {
+    "title": "Biomimicry",
+    "normalized_title": "biomimicry",
+    "original_url": "https://unstop.com/workshops-webinars/biomimicry-iit-madras-1774790",
+    "canonical_url": "https://unstop.com/workshops-webinars/biomimicry-iit-madras-1774790",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527552+00:00",
+    "metadata": {
+      "title": "Biomimicry",
+      "url": "https://unstop.com/workshops-webinars/biomimicry-iit-madras-1774790",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958": {
+    "title": "Next Gen Full Stack Development Workshop",
+    "normalized_title": "next gen full stack development workshop",
+    "original_url": "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958",
+    "canonical_url": "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527580+00:00",
+    "metadata": {
+      "title": "Next Gen Full Stack Development Workshop",
+      "url": "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/aiml-in-health-care-workshop-iit-madras-1764975": {
+    "title": "AI/ML in Health Care Workshop",
+    "normalized_title": "aiml in health care workshop",
+    "original_url": "https://unstop.com/workshops-webinars/aiml-in-health-care-workshop-iit-madras-1764975",
+    "canonical_url": "https://unstop.com/workshops-webinars/aiml-in-health-care-workshop-iit-madras-1764975",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527600+00:00",
+    "metadata": {
+      "title": "AI/ML in Health Care Workshop",
+      "url": "https://unstop.com/workshops-webinars/aiml-in-health-care-workshop-iit-madras-1764975",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/cad-for-industrial-design-workshop-iit-madras-1764995": {
+    "title": "CAD For Industrial Design Workshop",
+    "normalized_title": "cad for industrial design workshop",
+    "original_url": "https://unstop.com/workshops-webinars/cad-for-industrial-design-workshop-iit-madras-1764995",
+    "canonical_url": "https://unstop.com/workshops-webinars/cad-for-industrial-design-workshop-iit-madras-1764995",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527614+00:00",
+    "metadata": {
+      "title": "CAD For Industrial Design Workshop",
+      "url": "https://unstop.com/workshops-webinars/cad-for-industrial-design-workshop-iit-madras-1764995",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ai-voice-agents-workshop-iit-madras-1764968": {
+    "title": "AI Voice Agents Workshop",
+    "normalized_title": "ai voice agents workshop",
+    "original_url": "https://unstop.com/workshops-webinars/ai-voice-agents-workshop-iit-madras-1764968",
+    "canonical_url": "https://unstop.com/workshops-webinars/ai-voice-agents-workshop-iit-madras-1764968",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527627+00:00",
+    "metadata": {
+      "title": "AI Voice Agents Workshop",
+      "url": "https://unstop.com/workshops-webinars/ai-voice-agents-workshop-iit-madras-1764968",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953": {
+    "title": "Generative AI workshop",
+    "normalized_title": "generative ai workshop",
+    "original_url": "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953",
+    "canonical_url": "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527639+00:00",
+    "metadata": {
+      "title": "Generative AI workshop",
+      "url": "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ai-in-marketing-workshop-iit-madras-1764961": {
+    "title": "AI in Marketing Workshop",
+    "normalized_title": "ai in marketing workshop",
+    "original_url": "https://unstop.com/workshops-webinars/ai-in-marketing-workshop-iit-madras-1764961",
+    "canonical_url": "https://unstop.com/workshops-webinars/ai-in-marketing-workshop-iit-madras-1764961",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527650+00:00",
+    "metadata": {
+      "title": "AI in Marketing Workshop",
+      "url": "https://unstop.com/workshops-webinars/ai-in-marketing-workshop-iit-madras-1764961",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/iot-and-arduino-workshop-iit-madras-1773657": {
+    "title": "IoT and Arduino Workshop",
+    "normalized_title": "iot and arduino workshop",
+    "original_url": "https://unstop.com/workshops-webinars/iot-and-arduino-workshop-iit-madras-1773657",
+    "canonical_url": "https://unstop.com/workshops-webinars/iot-and-arduino-workshop-iit-madras-1773657",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527660+00:00",
+    "metadata": {
+      "title": "IoT and Arduino Workshop",
+      "url": "https://unstop.com/workshops-webinars/iot-and-arduino-workshop-iit-madras-1773657",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/investing-in-ai-era-workshop-iit-madras-1764986": {
+    "title": "Investing in AI Era Workshop",
+    "normalized_title": "investing in ai era workshop",
+    "original_url": "https://unstop.com/workshops-webinars/investing-in-ai-era-workshop-iit-madras-1764986",
+    "canonical_url": "https://unstop.com/workshops-webinars/investing-in-ai-era-workshop-iit-madras-1764986",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527671+00:00",
+    "metadata": {
+      "title": "Investing in AI Era Workshop",
+      "url": "https://unstop.com/workshops-webinars/investing-in-ai-era-workshop-iit-madras-1764986",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/agentic-ai-engineering-workshop-iit-madras-1764960": {
+    "title": "Agentic AI Engineering Workshop",
+    "normalized_title": "agentic ai engineering workshop",
+    "original_url": "https://unstop.com/workshops-webinars/agentic-ai-engineering-workshop-iit-madras-1764960",
+    "canonical_url": "https://unstop.com/workshops-webinars/agentic-ai-engineering-workshop-iit-madras-1764960",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527682+00:00",
+    "metadata": {
+      "title": "Agentic AI Engineering Workshop",
+      "url": "https://unstop.com/workshops-webinars/agentic-ai-engineering-workshop-iit-madras-1764960",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ethical-web-hacking-to-bounty-iit-madras-1764957": {
+    "title": "Ethical Web Hacking to Bounty",
+    "normalized_title": "ethical web hacking to bounty",
+    "original_url": "https://unstop.com/workshops-webinars/ethical-web-hacking-to-bounty-iit-madras-1764957",
+    "canonical_url": "https://unstop.com/workshops-webinars/ethical-web-hacking-to-bounty-iit-madras-1764957",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527694+00:00",
+    "metadata": {
+      "title": "Ethical Web Hacking to Bounty",
+      "url": "https://unstop.com/workshops-webinars/ethical-web-hacking-to-bounty-iit-madras-1764957",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/rocketry-workshop-iit-madras-1765277": {
+    "title": "Rocketry Workshop",
+    "normalized_title": "rocketry workshop",
+    "original_url": "https://unstop.com/workshops-webinars/rocketry-workshop-iit-madras-1765277",
+    "canonical_url": "https://unstop.com/workshops-webinars/rocketry-workshop-iit-madras-1765277",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527705+00:00",
+    "metadata": {
+      "title": "Rocketry Workshop",
+      "url": "https://unstop.com/workshops-webinars/rocketry-workshop-iit-madras-1765277",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/cyber-security-iit-madras-1773652": {
+    "title": "Cybersecurity",
+    "normalized_title": "cybersecurity",
+    "original_url": "https://unstop.com/workshops-webinars/cyber-security-iit-madras-1773652",
+    "canonical_url": "https://unstop.com/workshops-webinars/cyber-security-iit-madras-1773652",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527715+00:00",
+    "metadata": {
+      "title": "Cybersecurity",
+      "url": "https://unstop.com/workshops-webinars/cyber-security-iit-madras-1773652",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/marvels-of-nature-inspired-3-d-printing-construction-and-automotive-applications-iit-madras-1765006": {
+    "title": "Marvels of Nature Inspired 3-D Printing : Construction and Automotive Applications",
+    "normalized_title": "marvels of nature inspired 3d printing construction and automotive applications",
+    "original_url": "https://unstop.com/workshops-webinars/marvels-of-nature-inspired-3-d-printing-construction-and-automotive-applications-iit-madras-1765006",
+    "canonical_url": "https://unstop.com/workshops-webinars/marvels-of-nature-inspired-3-d-printing-construction-and-automotive-applications-iit-madras-1765006",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527729+00:00",
+    "metadata": {
+      "title": "Marvels of Nature Inspired 3-D Printing : Construction and Automotive Applications",
+      "url": "https://unstop.com/workshops-webinars/marvels-of-nature-inspired-3-d-printing-construction-and-automotive-applications-iit-madras-1765006",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/iot-demonstration-using-raspberry-pi-iit-madras-1764985": {
+    "title": "IoT demonstration using Raspberry Pi",
+    "normalized_title": "iot demonstration using raspberry pi",
+    "original_url": "https://unstop.com/workshops-webinars/iot-demonstration-using-raspberry-pi-iit-madras-1764985",
+    "canonical_url": "https://unstop.com/workshops-webinars/iot-demonstration-using-raspberry-pi-iit-madras-1764985",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527740+00:00",
+    "metadata": {
+      "title": "IoT demonstration using Raspberry Pi",
+      "url": "https://unstop.com/workshops-webinars/iot-demonstration-using-raspberry-pi-iit-madras-1764985",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/game-development-iit-madras-1774349": {
+    "title": "Game Development",
+    "normalized_title": "game development",
+    "original_url": "https://unstop.com/workshops-webinars/game-development-iit-madras-1774349",
+    "canonical_url": "https://unstop.com/workshops-webinars/game-development-iit-madras-1774349",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527750+00:00",
+    "metadata": {
+      "title": "Game Development",
+      "url": "https://unstop.com/workshops-webinars/game-development-iit-madras-1774349",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ai-computer-vision-for-iot-and-autonomous-systems-iit-madras-1764955": {
+    "title": "AI & Computer Vision for IoT and Autonomous Systems",
+    "normalized_title": "ai computer vision for iot and autonomous systems",
+    "original_url": "https://unstop.com/workshops-webinars/ai-computer-vision-for-iot-and-autonomous-systems-iit-madras-1764955",
+    "canonical_url": "https://unstop.com/workshops-webinars/ai-computer-vision-for-iot-and-autonomous-systems-iit-madras-1764955",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527761+00:00",
+    "metadata": {
+      "title": "AI & Computer Vision for IoT and Autonomous Systems",
+      "url": "https://unstop.com/workshops-webinars/ai-computer-vision-for-iot-and-autonomous-systems-iit-madras-1764955",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/pcb-design-2-iit-madras-1765005": {
+    "title": "PCB DESIGN 2",
+    "normalized_title": "pcb design 2",
+    "original_url": "https://unstop.com/workshops-webinars/pcb-design-2-iit-madras-1765005",
+    "canonical_url": "https://unstop.com/workshops-webinars/pcb-design-2-iit-madras-1765005",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527771+00:00",
+    "metadata": {
+      "title": "PCB DESIGN 2",
+      "url": "https://unstop.com/workshops-webinars/pcb-design-2-iit-madras-1765005",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/net-zero-republic-indias-blueprint-for-sustainable-prosperity-workshop-iim-bangalore-1774690": {
+    "title": "Net-Zero Republic: India’s Blueprint for Sustainable Prosperity Workshop",
+    "normalized_title": "netzero republic indias blueprint for sustainable prosperity workshop",
+    "original_url": "https://unstop.com/conferences/net-zero-republic-indias-blueprint-for-sustainable-prosperity-workshop-iim-bangalore-1774690",
+    "canonical_url": "https://unstop.com/conferences/net-zero-republic-indias-blueprint-for-sustainable-prosperity-workshop-iim-bangalore-1774690",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-10-25T08:36:11.527787+00:00",
+    "metadata": {
+      "title": "Net-Zero Republic: India’s Blueprint for Sustainable Prosperity Workshop",
+      "url": "https://unstop.com/conferences/net-zero-republic-indias-blueprint-for-sustainable-prosperity-workshop-iim-bangalore-1774690",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/pcb-design-1-iit-madras-1765256": {
+    "title": "PCB Design 1",
+    "normalized_title": "pcb design 1",
+    "original_url": "https://unstop.com/workshops-webinars/pcb-design-1-iit-madras-1765256",
+    "canonical_url": "https://unstop.com/workshops-webinars/pcb-design-1-iit-madras-1765256",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527798+00:00",
+    "metadata": {
+      "title": "PCB Design 1",
+      "url": "https://unstop.com/workshops-webinars/pcb-design-1-iit-madras-1765256",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ev-workshop-iit-madras-1764967": {
+    "title": "EV Workshop",
+    "normalized_title": "ev workshop",
+    "original_url": "https://unstop.com/workshops-webinars/ev-workshop-iit-madras-1764967",
+    "canonical_url": "https://unstop.com/workshops-webinars/ev-workshop-iit-madras-1764967",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-25T08:36:11.527810+00:00",
+    "metadata": {
+      "title": "EV Workshop",
+      "url": "https://unstop.com/workshops-webinars/ev-workshop-iit-madras-1764967",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
