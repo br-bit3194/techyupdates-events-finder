@@ -3326,5 +3326,37 @@
       "platform_or_source": "Unstop (Conferences)",
       "event_type": "Workshop"
     }
+  },
+  "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1785073": {
+    "title": "Cracking Technical Interviews: A Practical Guide for College Students",
+    "normalized_title": "cracking technical interviews a practical guide for college students",
+    "original_url": "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1785073",
+    "canonical_url": "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1785073",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-31T09:50:55.658730+00:00",
+    "metadata": {
+      "title": "Cracking Technical Interviews: A Practical Guide for College Students",
+      "url": "https://unstop.com/workshops-webinars/cracking-technical-interviews-a-practical-guide-for-college-students-techbairn-1785073",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648": {
+    "title": "Communications in Political Campaign",
+    "normalized_title": "communications in political campaign",
+    "original_url": "https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648",
+    "canonical_url": "https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-10-31T09:50:55.658764+00:00",
+    "metadata": {
+      "title": "Communications in Political Campaign",
+      "url": "https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
   }
 }
