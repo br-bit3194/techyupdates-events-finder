@@ -1,20 +1,4 @@
 {
-  "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986": {
-    "title": "NMIMS KYB : The Business Gallery",
-    "normalized_title": "nmims kyb the business gallery",
-    "original_url": "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986",
-    "canonical_url": "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Conferences)",
-    "sent_at": "2026-10-07T10:27:05.812903+00:00",
-    "metadata": {
-      "title": "NMIMS KYB : The Business Gallery",
-      "url": "https://unstop.com/conferences/nmims-kyb-the-business-gallery-narsee-monjee-institute-of-management-studies-nmims-mumbai-1766986",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Conferences)",
-      "event_type": "Workshop"
-    }
-  },
   "https://unstop.com/workshops-webinars/next-generation-mass-transfer-technologies-challenges-opportunities-jaihind-college-of-engineering-ku-1767425": {
     "title": "Next-Generation Mass Transfer  Technologies: Challenges & Opportunities",
     "normalized_title": "nextgeneration mass transfer technologies challenges opportunities",
@@ -3354,6 +3338,54 @@
     "metadata": {
       "title": "Advanced Computing for The Future: Supercomputing, Artificial Intelligence and Data Science",
       "url": "https://unstop.com/workshops-webinars/advanced-computing-for-the-future-supercomputing-artificial-intelligence-and-data-science-httpsmitmys-1791395",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/british-parliament-image-2027-gls-university-glsu-ahmedabad-gujrat-1794463": {
+    "title": "British Parliament",
+    "normalized_title": "british parliament",
+    "original_url": "https://unstop.com/conferences/british-parliament-image-2027-gls-university-glsu-ahmedabad-gujrat-1794463",
+    "canonical_url": "https://unstop.com/conferences/british-parliament-image-2027-gls-university-glsu-ahmedabad-gujrat-1794463",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-06T11:14:36.840878+00:00",
+    "metadata": {
+      "title": "British Parliament",
+      "url": "https://unstop.com/conferences/british-parliament-image-2027-gls-university-glsu-ahmedabad-gujrat-1794463",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/full-stack-python-workshop-quality-thought-info-systems-1796761": {
+    "title": "Full Stack Python Workshop",
+    "normalized_title": "full stack python workshop",
+    "original_url": "https://unstop.com/workshops-webinars/full-stack-python-workshop-quality-thought-info-systems-1796761",
+    "canonical_url": "https://unstop.com/workshops-webinars/full-stack-python-workshop-quality-thought-info-systems-1796761",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-06T11:14:36.840902+00:00",
+    "metadata": {
+      "title": "Full Stack Python Workshop",
+      "url": "https://unstop.com/workshops-webinars/full-stack-python-workshop-quality-thought-info-systems-1796761",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-gen-ai-testing-workshop-in-hyderabad-10-november-2026-quality-thought-info-systems-1798299": {
+    "title": "Free Gen AI Testing Workshop in Hyderabad- 10 November 2026",
+    "normalized_title": "free gen ai testing workshop in hyderabad 10 november 2026",
+    "original_url": "https://unstop.com/workshops-webinars/free-gen-ai-testing-workshop-in-hyderabad-10-november-2026-quality-thought-info-systems-1798299",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-gen-ai-testing-workshop-in-hyderabad-10-november-2026-quality-thought-info-systems-1798299",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-06T11:14:36.840919+00:00",
+    "metadata": {
+      "title": "Free Gen AI Testing Workshop in Hyderabad- 10 November 2026",
+      "url": "https://unstop.com/workshops-webinars/free-gen-ai-testing-workshop-in-hyderabad-10-november-2026-quality-thought-info-systems-1798299",
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
