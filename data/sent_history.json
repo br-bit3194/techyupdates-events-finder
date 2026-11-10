@@ -1,52 +1,4 @@
 {
-  "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418": {
-    "title": "Yuvaan – Youth Conclave",
-    "normalized_title": "yuvaan youth conclave",
-    "original_url": "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418",
-    "canonical_url": "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Conferences)",
-    "sent_at": "2026-10-11T10:11:52.376058+00:00",
-    "metadata": {
-      "title": "Yuvaan – Youth Conclave",
-      "url": "https://unstop.com/conferences/yuvaan-youth-conclave-iiitn-1766418",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Conferences)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673": {
-    "title": "Navigating the Job Market Webinar",
-    "normalized_title": "navigating the job market webinar",
-    "original_url": "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673",
-    "canonical_url": "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-11T10:11:52.376092+00:00",
-    "metadata": {
-      "title": "Navigating the Job Market Webinar",
-      "url": "https://unstop.com/workshops-webinars/navigating-the-job-market-webinar-reliance-foundation-skilling-academy-1768673",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549": {
-    "title": "National Student Workshop on iOS App Development",
-    "normalized_title": "national student workshop on ios app development",
-    "original_url": "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549",
-    "canonical_url": "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-11T10:11:52.376115+00:00",
-    "metadata": {
-      "title": "National Student Workshop on iOS App Development",
-      "url": "https://unstop.com/workshops-webinars/national-student-workshop-on-ios-app-development-srm-institute-of-science-technology-trichy-1768549",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
   "https://aicodingsummit.com/asia": {
     "title": "AI Coding Summit Asia",
     "normalized_title": "ai coding summit asia",
@@ -3418,6 +3370,70 @@
     "metadata": {
       "title": "Entrepreneurial Roast Battle",
       "url": "https://unstop.com/workshops-webinars/entrepreneurial-roast-battle-e-plexus-vasavi-college-of-engineering-vce-hyderabad-1802248",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/winter-school-2026-iim-ahmedabad-1803196": {
+    "title": "Winter School 2026",
+    "normalized_title": "winter school 2026",
+    "original_url": "https://unstop.com/conferences/winter-school-2026-iim-ahmedabad-1803196",
+    "canonical_url": "https://unstop.com/conferences/winter-school-2026-iim-ahmedabad-1803196",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-10T11:28:14.645925+00:00",
+    "metadata": {
+      "title": "Winter School 2026",
+      "url": "https://unstop.com/conferences/winter-school-2026-iim-ahmedabad-1803196",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/india-2047-the-future-of-capital-markets-and-the-global-investment-opportunity-drishti-2026-hosted-by-1802760": {
+    "title": "India 2047: The Future of Capital Markets and the Global Investment Opportunity",
+    "normalized_title": "india 2047 the future of capital markets and the global investment opportunity",
+    "original_url": "https://unstop.com/workshops-webinars/india-2047-the-future-of-capital-markets-and-the-global-investment-opportunity-drishti-2026-hosted-by-1802760",
+    "canonical_url": "https://unstop.com/workshops-webinars/india-2047-the-future-of-capital-markets-and-the-global-investment-opportunity-drishti-2026-hosted-by-1802760",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-10T11:28:14.645956+00:00",
+    "metadata": {
+      "title": "India 2047: The Future of Capital Markets and the Global Investment Opportunity",
+      "url": "https://unstop.com/workshops-webinars/india-2047-the-future-of-capital-markets-and-the-global-investment-opportunity-drishti-2026-hosted-by-1802760",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-live-webinar-on-data-analyst-with-ai-quality-thought-info-systems-1803901": {
+    "title": "Free Live Webinar on Data Analyst with AI",
+    "normalized_title": "free live webinar on data analyst with ai",
+    "original_url": "https://unstop.com/workshops-webinars/free-live-webinar-on-data-analyst-with-ai-quality-thought-info-systems-1803901",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-live-webinar-on-data-analyst-with-ai-quality-thought-info-systems-1803901",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-10T11:28:14.645973+00:00",
+    "metadata": {
+      "title": "Free Live Webinar on Data Analyst with AI",
+      "url": "https://unstop.com/workshops-webinars/free-live-webinar-on-data-analyst-with-ai-quality-thought-info-systems-1803901",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/public-speaking-workshop-adore-india-1803003": {
+    "title": "Public Speaking Workshop",
+    "normalized_title": "public speaking workshop",
+    "original_url": "https://unstop.com/workshops-webinars/public-speaking-workshop-adore-india-1803003",
+    "canonical_url": "https://unstop.com/workshops-webinars/public-speaking-workshop-adore-india-1803003",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-10T11:28:14.645986+00:00",
+    "metadata": {
+      "title": "Public Speaking Workshop",
+      "url": "https://unstop.com/workshops-webinars/public-speaking-workshop-adore-india-1803003",
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
