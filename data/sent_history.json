@@ -1,116 +1,4 @@
 {
-  "https://aicodingsummit.com/asia": {
-    "title": "AI Coding Summit Asia",
-    "normalized_title": "ai coding summit asia",
-    "original_url": "https://aicodingsummit.com/asia",
-    "canonical_url": "https://aicodingsummit.com/asia",
-    "category": "Meetups, Demo Days & CFPs",
-    "platform": "Confs.tech (DATA)",
-    "sent_at": "2026-10-12T11:09:49.399544+00:00",
-    "metadata": {
-      "title": "AI Coding Summit Asia",
-      "url": "https://aicodingsummit.com/asia",
-      "category": "Meetups, Demo Days & CFPs",
-      "platform_or_source": "Confs.tech (DATA)",
-      "event_type": "Call for Papers"
-    }
-  },
-  "https://goo.gle/WebAISummit26": {
-    "title": "Web AI Summit",
-    "normalized_title": "web ai summit",
-    "original_url": "https://goo.gle/WebAISummit26",
-    "canonical_url": "https://goo.gle/WebAISummit26",
-    "category": "Meetups, Demo Days & CFPs",
-    "platform": "Confs.tech (JAVASCRIPT)",
-    "sent_at": "2026-10-12T11:09:49.399565+00:00",
-    "metadata": {
-      "title": "Web AI Summit",
-      "url": "https://goo.gle/WebAISummit26",
-      "category": "Meetups, Demo Days & CFPs",
-      "platform_or_source": "Confs.tech (JAVASCRIPT)",
-      "event_type": "Call for Papers"
-    }
-  },
-  "https://unstop.com/workshops-webinars/crack-the-cost-leadership-playbook-a-live-strategy-case-study-gocrackit-1769088": {
-    "title": "Crack the Cost Leadership Playbook: A Live Strategy Case Study",
-    "normalized_title": "crack the cost leadership playbook a live strategy case study",
-    "original_url": "https://unstop.com/workshops-webinars/crack-the-cost-leadership-playbook-a-live-strategy-case-study-gocrackit-1769088",
-    "canonical_url": "https://unstop.com/workshops-webinars/crack-the-cost-leadership-playbook-a-live-strategy-case-study-gocrackit-1769088",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-12T11:09:49.399576+00:00",
-    "metadata": {
-      "title": "Crack the Cost Leadership Playbook: A Live Strategy Case Study",
-      "url": "https://unstop.com/workshops-webinars/crack-the-cost-leadership-playbook-a-live-strategy-case-study-gocrackit-1769088",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://apiconference.net/london": {
-    "title": "API Conference London",
-    "normalized_title": "api conference london",
-    "original_url": "https://apiconference.net/london",
-    "canonical_url": "https://apiconference.net/london",
-    "category": "Meetups, Demo Days & CFPs",
-    "platform": "Confs.tech (DEVOPS)",
-    "sent_at": "2026-10-12T11:09:49.399584+00:00",
-    "metadata": {
-      "title": "API Conference London",
-      "url": "https://apiconference.net/london",
-      "category": "Meetups, Demo Days & CFPs",
-      "platform_or_source": "Confs.tech (DEVOPS)",
-      "event_type": "Call for Papers"
-    }
-  },
-  "https://basta.net/frankfurt": {
-    "title": "BASTA! Spring",
-    "normalized_title": "basta spring",
-    "original_url": "https://basta.net/frankfurt",
-    "canonical_url": "https://basta.net/frankfurt",
-    "category": "Meetups, Demo Days & CFPs",
-    "platform": "Confs.tech (DEVOPS)",
-    "sent_at": "2026-10-12T11:09:49.399591+00:00",
-    "metadata": {
-      "title": "BASTA! Spring",
-      "url": "https://basta.net/frankfurt",
-      "category": "Meetups, Demo Days & CFPs",
-      "platform_or_source": "Confs.tech (DEVOPS)",
-      "event_type": "Call for Papers"
-    }
-  },
-  "https://basta.net/mainz": {
-    "title": "BASTA! Fall",
-    "normalized_title": "basta fall",
-    "original_url": "https://basta.net/mainz",
-    "canonical_url": "https://basta.net/mainz",
-    "category": "Meetups, Demo Days & CFPs",
-    "platform": "Confs.tech (DEVOPS)",
-    "sent_at": "2026-10-12T11:09:49.399597+00:00",
-    "metadata": {
-      "title": "BASTA! Fall",
-      "url": "https://basta.net/mainz",
-      "category": "Meetups, Demo Days & CFPs",
-      "platform_or_source": "Confs.tech (DEVOPS)",
-      "event_type": "Call for Papers"
-    }
-  },
-  "https://aibuildersnetwork.org/conference": {
-    "title": "AI Builders Global Conference",
-    "normalized_title": "ai builders global conference",
-    "original_url": "https://aibuildersnetwork.org/conference",
-    "canonical_url": "https://aibuildersnetwork.org/conference",
-    "category": "Meetups, Demo Days & CFPs",
-    "platform": "Confs.tech (DATA)",
-    "sent_at": "2026-10-12T11:09:49.399603+00:00",
-    "metadata": {
-      "title": "AI Builders Global Conference",
-      "url": "https://aibuildersnetwork.org/conference",
-      "category": "Meetups, Demo Days & CFPs",
-      "platform_or_source": "Confs.tech (DATA)",
-      "event_type": "Call for Papers"
-    }
-  },
   "https://unstop.com/workshops-webinars/free-aiml-with-data-science-workshop-quality-thought-info-systems-1769695": {
     "title": "Free AI/ML with Data Science Workshop",
     "normalized_title": "free aiml with data science workshop",
@@ -3437,6 +3325,118 @@
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406": {
+    "title": "Motivational Expert Sessions by Successful innovators & Entrepreneurs",
+    "normalized_title": "motivational expert sessions by successful innovators entrepreneurs",
+    "original_url": "https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406",
+    "canonical_url": "https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-11T11:17:02.248505+00:00",
+    "metadata": {
+      "title": "Motivational Expert Sessions by Successful innovators & Entrepreneurs",
+      "url": "https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-live-webinar-on-playwright-with-ai-14-november-2026-quality-thought-info-systems-1805191": {
+    "title": "Free Live Webinar on Playwright with AI | 14 November 2026",
+    "normalized_title": "free live webinar on playwright with ai 14 november 2026",
+    "original_url": "https://unstop.com/workshops-webinars/free-live-webinar-on-playwright-with-ai-14-november-2026-quality-thought-info-systems-1805191",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-live-webinar-on-playwright-with-ai-14-november-2026-quality-thought-info-systems-1805191",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-11T11:17:02.248535+00:00",
+    "metadata": {
+      "title": "Free Live Webinar on Playwright with AI | 14 November 2026",
+      "url": "https://unstop.com/workshops-webinars/free-live-webinar-on-playwright-with-ai-14-november-2026-quality-thought-info-systems-1805191",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://aicodingsummit.com/asia": {
+    "title": "AI Coding Summit Asia",
+    "normalized_title": "ai coding summit asia",
+    "original_url": "https://aicodingsummit.com/asia",
+    "canonical_url": "https://aicodingsummit.com/asia",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-11-11T11:17:02.248551+00:00",
+    "metadata": {
+      "title": "AI Coding Summit Asia",
+      "url": "https://aicodingsummit.com/asia",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://unstop.com/conferences/rashtraneeti-national-institute-of-technology-nit-agartala-1804696": {
+    "title": "AAYAM XI  Rashtraneeti",
+    "normalized_title": "aayam xi rashtraneeti",
+    "original_url": "https://unstop.com/conferences/rashtraneeti-national-institute-of-technology-nit-agartala-1804696",
+    "canonical_url": "https://unstop.com/conferences/rashtraneeti-national-institute-of-technology-nit-agartala-1804696",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-11T11:17:02.248564+00:00",
+    "metadata": {
+      "title": "AAYAM XI  Rashtraneeti",
+      "url": "https://unstop.com/conferences/rashtraneeti-national-institute-of-technology-nit-agartala-1804696",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://basta.net/mainz": {
+    "title": "BASTA! Fall",
+    "normalized_title": "basta fall",
+    "original_url": "https://basta.net/mainz",
+    "canonical_url": "https://basta.net/mainz",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-11-11T11:17:02.248576+00:00",
+    "metadata": {
+      "title": "BASTA! Fall",
+      "url": "https://basta.net/mainz",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://basta.net/frankfurt": {
+    "title": "BASTA! Spring",
+    "normalized_title": "basta spring",
+    "original_url": "https://basta.net/frankfurt",
+    "canonical_url": "https://basta.net/frankfurt",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-11-11T11:17:02.248588+00:00",
+    "metadata": {
+      "title": "BASTA! Spring",
+      "url": "https://basta.net/frankfurt",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://apiconference.net/london": {
+    "title": "API Conference London",
+    "normalized_title": "api conference london",
+    "original_url": "https://apiconference.net/london",
+    "canonical_url": "https://apiconference.net/london",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-11-11T11:17:02.248599+00:00",
+    "metadata": {
+      "title": "API Conference London",
+      "url": "https://apiconference.net/london",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Call for Papers"
     }
   }
 }
