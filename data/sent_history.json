@@ -1,68 +1,4 @@
 {
-  "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138": {
-    "title": "Building a Generative AI App Using AWS PartyRock",
-    "normalized_title": "building a generative ai app using aws partyrock",
-    "original_url": "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138",
-    "canonical_url": "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-14T08:53:54.651386+00:00",
-    "metadata": {
-      "title": "Building a Generative AI App Using AWS PartyRock",
-      "url": "https://unstop.com/workshops-webinars/building-a-generative-ai-app-using-aws-partyrock-ssm-institute-of-engineering-and-technology-1770138",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868": {
-    "title": "Gwalior AI Summit 2026 – Research Paper & Poster Presentation Competition",
-    "normalized_title": "gwalior ai summit 2026 research paper poster presentation competition",
-    "original_url": "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868",
-    "canonical_url": "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Conferences)",
-    "sent_at": "2026-10-14T08:53:54.651414+00:00",
-    "metadata": {
-      "title": "Gwalior AI Summit 2026 – Research Paper & Poster Presentation Competition",
-      "url": "https://unstop.com/conferences/gwalior-ai-summit-2026-research-paper-poster-presentation-competition-gwalior-ai-summit-29-30-oct-atal-bihar-1769868",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Conferences)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173": {
-    "title": "Full Stack Python with Generative AI Workshop",
-    "normalized_title": "full stack python with generative ai workshop",
-    "original_url": "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173",
-    "canonical_url": "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-14T08:53:54.651427+00:00",
-    "metadata": {
-      "title": "Full Stack Python with Generative AI Workshop",
-      "url": "https://unstop.com/workshops-webinars/full-stack-python-with-generative-ai-workshop-quality-thought-info-systems-1770173",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731": {
-    "title": "BuildNext Open Source Awareness & Practical Bug-Fixing Challenge",
-    "normalized_title": "buildnext open source awareness practical bugfixing challenge",
-    "original_url": "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731",
-    "canonical_url": "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-14T08:53:54.651439+00:00",
-    "metadata": {
-      "title": "BuildNext Open Source Awareness & Practical Bug-Fixing Challenge",
-      "url": "https://unstop.com/workshops-webinars/buildnext-open-source-awareness-practical-bug-fixing-challenge-buildnext-community-1769731",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
   "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354": {
     "title": "SI Agents Building Using Super Intelligence",
     "normalized_title": "si agents building using super intelligence",
@@ -3306,6 +3242,86 @@
     "metadata": {
       "title": "Founders Playbook Webinar Series - 14",
       "url": "https://unstop.com/workshops-webinars/founders-playbook-webinar-series-14-iit-madras-1806949",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/career-growth-excellence-workshop-iit-bombay-1794320": {
+    "title": "IIT Bombay E-Summit’26 Workshop: Career Growth & Excellence",
+    "normalized_title": "iit bombay esummit26 workshop career growth excellence",
+    "original_url": "https://unstop.com/workshops-webinars/career-growth-excellence-workshop-iit-bombay-1794320",
+    "canonical_url": "https://unstop.com/workshops-webinars/career-growth-excellence-workshop-iit-bombay-1794320",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-13T11:19:00.813725+00:00",
+    "metadata": {
+      "title": "IIT Bombay E-Summit’26 Workshop: Career Growth & Excellence",
+      "url": "https://unstop.com/workshops-webinars/career-growth-excellence-workshop-iit-bombay-1794320",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/generative-ai-unleashed-workshop-iit-bombay-1794318": {
+    "title": "IIT Bombay E-Summit’26 Workshop: Generative AI Unleashed | Google Cloud × E-Cell IIT Bombay",
+    "normalized_title": "iit bombay esummit26 workshop generative ai unleashed google cloud ecell iit bombay",
+    "original_url": "https://unstop.com/workshops-webinars/generative-ai-unleashed-workshop-iit-bombay-1794318",
+    "canonical_url": "https://unstop.com/workshops-webinars/generative-ai-unleashed-workshop-iit-bombay-1794318",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-13T11:19:00.813749+00:00",
+    "metadata": {
+      "title": "IIT Bombay E-Summit’26 Workshop: Generative AI Unleashed | Google Cloud × E-Cell IIT Bombay",
+      "url": "https://unstop.com/workshops-webinars/generative-ai-unleashed-workshop-iit-bombay-1794318",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/from-idea-to-scale-building-the-ai-native-startup-on-cloud-workshop-iit-bombay-1808438": {
+    "title": "From Idea to Scale - Building the AI-Native Startup on Cloud Workshop",
+    "normalized_title": "from idea to scale building the ainative startup on cloud workshop",
+    "original_url": "https://unstop.com/workshops-webinars/from-idea-to-scale-building-the-ai-native-startup-on-cloud-workshop-iit-bombay-1808438",
+    "canonical_url": "https://unstop.com/workshops-webinars/from-idea-to-scale-building-the-ai-native-startup-on-cloud-workshop-iit-bombay-1808438",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-13T11:19:00.813762+00:00",
+    "metadata": {
+      "title": "From Idea to Scale - Building the AI-Native Startup on Cloud Workshop",
+      "url": "https://unstop.com/workshops-webinars/from-idea-to-scale-building-the-ai-native-startup-on-cloud-workshop-iit-bombay-1808438",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/financial-modelling-with-ai-workshop-iit-bombay-1794322": {
+    "title": "IIT Bombay E-Summit’26 Workshop: Financial Modelling with AI",
+    "normalized_title": "iit bombay esummit26 workshop financial modelling with ai",
+    "original_url": "https://unstop.com/workshops-webinars/financial-modelling-with-ai-workshop-iit-bombay-1794322",
+    "canonical_url": "https://unstop.com/workshops-webinars/financial-modelling-with-ai-workshop-iit-bombay-1794322",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-13T11:19:00.813773+00:00",
+    "metadata": {
+      "title": "IIT Bombay E-Summit’26 Workshop: Financial Modelling with AI",
+      "url": "https://unstop.com/workshops-webinars/financial-modelling-with-ai-workshop-iit-bombay-1794322",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/webinar-on-cyber-security-with-ai-in-hyderabad-18-november-2026-quality-thought-info-systems-1808598": {
+    "title": "Webinar on Cyber Security with AI | 18 November 2026",
+    "normalized_title": "webinar on cyber security with ai 18 november 2026",
+    "original_url": "https://unstop.com/workshops-webinars/webinar-on-cyber-security-with-ai-in-hyderabad-18-november-2026-quality-thought-info-systems-1808598",
+    "canonical_url": "https://unstop.com/workshops-webinars/webinar-on-cyber-security-with-ai-in-hyderabad-18-november-2026-quality-thought-info-systems-1808598",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-13T11:19:00.813782+00:00",
+    "metadata": {
+      "title": "Webinar on Cyber Security with AI | 18 November 2026",
+      "url": "https://unstop.com/workshops-webinars/webinar-on-cyber-security-with-ai-in-hyderabad-18-november-2026-quality-thought-info-systems-1808598",
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
