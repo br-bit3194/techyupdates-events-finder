@@ -1,68 +1,4 @@
 {
-  "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354": {
-    "title": "SI Agents Building Using Super Intelligence",
-    "normalized_title": "si agents building using super intelligence",
-    "original_url": "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354",
-    "canonical_url": "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-15T08:28:40.140097+00:00",
-    "metadata": {
-      "title": "SI Agents Building Using Super Intelligence",
-      "url": "https://unstop.com/workshops-webinars/si-agents-building-using-super-intelligence-christ-university-cu-bangalore-1770354",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382": {
-    "title": "When Security AI Becomes the Attack Surface: Attacking and Defending AI Agents in Security Operations.",
-    "normalized_title": "when security ai becomes the attack surface attacking and defending ai agents in security operations",
-    "original_url": "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382",
-    "canonical_url": "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-15T08:28:40.140124+00:00",
-    "metadata": {
-      "title": "When Security AI Becomes the Attack Surface: Attacking and Defending AI Agents in Security Operations.",
-      "url": "https://unstop.com/workshops-webinars/when-security-ai-becomes-the-attack-surface-attacking-and-defending-ai-agents-in-security-operations--1770382",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629": {
-    "title": "Free GCP Data Engineer Workshop",
-    "normalized_title": "free gcp data engineer workshop",
-    "original_url": "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629",
-    "canonical_url": "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-15T08:28:40.140136+00:00",
-    "metadata": {
-      "title": "Free GCP Data Engineer Workshop",
-      "url": "https://unstop.com/workshops-webinars/free-gcp-data-engineer-workshop-quality-thought-info-systems-1770629",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343": {
-    "title": "Silicon Rush",
-    "normalized_title": "silicon rush",
-    "original_url": "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343",
-    "canonical_url": "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-15T08:28:40.140145+00:00",
-    "metadata": {
-      "title": "Silicon Rush",
-      "url": "https://unstop.com/workshops-webinars/silicon-rush-tantrafiesta26-iiitn-1770343",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
   "https://unstop.com/conferences/ieee-cs-day-2026-quantum-and-ai-srm-university-vadapalani-1770748": {
     "title": "IEEE CS Day 2026: Quantum and AI",
     "normalized_title": "ieee cs day 2026 quantum and ai",
@@ -3324,6 +3260,70 @@
       "url": "https://unstop.com/workshops-webinars/webinar-on-cyber-security-with-ai-in-hyderabad-18-november-2026-quality-thought-info-systems-1808598",
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-19-november-2026-quality-thought-info-systems-1810208": {
+    "title": "Live Webinar on AI ML with Data Science | 19 November 2026",
+    "normalized_title": "live webinar on ai ml with data science 19 november 2026",
+    "original_url": "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-19-november-2026-quality-thought-info-systems-1810208",
+    "canonical_url": "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-19-november-2026-quality-thought-info-systems-1810208",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-14T10:44:11.539817+00:00",
+    "metadata": {
+      "title": "Live Webinar on AI ML with Data Science | 19 November 2026",
+      "url": "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-19-november-2026-quality-thought-info-systems-1810208",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/gen-ai-demo-explore-the-future-of-artificial-intelligence-quality-thought-1810359": {
+    "title": "Gen-AI Demo | Explore the Future of Artificial Intelligence",
+    "normalized_title": "genai demo explore the future of artificial intelligence",
+    "original_url": "https://unstop.com/workshops-webinars/gen-ai-demo-explore-the-future-of-artificial-intelligence-quality-thought-1810359",
+    "canonical_url": "https://unstop.com/workshops-webinars/gen-ai-demo-explore-the-future-of-artificial-intelligence-quality-thought-1810359",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-14T10:44:11.539851+00:00",
+    "metadata": {
+      "title": "Gen-AI Demo | Explore the Future of Artificial Intelligence",
+      "url": "https://unstop.com/workshops-webinars/gen-ai-demo-explore-the-future-of-artificial-intelligence-quality-thought-1810359",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/mock-recruitment-drive-workshop-amity-university-au-noida-1805194": {
+    "title": "Mock Recruitment Drive Workshop",
+    "normalized_title": "mock recruitment drive workshop",
+    "original_url": "https://unstop.com/workshops-webinars/mock-recruitment-drive-workshop-amity-university-au-noida-1805194",
+    "canonical_url": "https://unstop.com/workshops-webinars/mock-recruitment-drive-workshop-amity-university-au-noida-1805194",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-14T10:44:11.539869+00:00",
+    "metadata": {
+      "title": "Mock Recruitment Drive Workshop",
+      "url": "https://unstop.com/workshops-webinars/mock-recruitment-drive-workshop-amity-university-au-noida-1805194",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/poster-presentation-competition-soil-school-of-business-design-1808621": {
+    "title": "Poster Presentation Competition",
+    "normalized_title": "poster presentation competition",
+    "original_url": "https://unstop.com/conferences/poster-presentation-competition-soil-school-of-business-design-1808621",
+    "canonical_url": "https://unstop.com/conferences/poster-presentation-competition-soil-school-of-business-design-1808621",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-14T10:44:11.539882+00:00",
+    "metadata": {
+      "title": "Poster Presentation Competition",
+      "url": "https://unstop.com/conferences/poster-presentation-competition-soil-school-of-business-design-1808621",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
       "event_type": "Workshop"
     }
   }
