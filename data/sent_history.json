@@ -1,36 +1,4 @@
 {
-  "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107": {
-    "title": "AWS Builder Community Interaction Session | Mandsaur University",
-    "normalized_title": "aws builder community interaction session mandsaur university",
-    "original_url": "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107",
-    "canonical_url": "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Conferences)",
-    "sent_at": "2026-10-18T08:11:53.035975+00:00",
-    "metadata": {
-      "title": "AWS Builder Community Interaction Session | Mandsaur University",
-      "url": "https://unstop.com/conferences/aws-builder-community-interaction-session-mandsaur-university-1771107",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Conferences)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828": {
-    "title": "Capital Markets Workshop",
-    "normalized_title": "capital markets workshop",
-    "original_url": "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828",
-    "canonical_url": "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-18T08:11:53.036008+00:00",
-    "metadata": {
-      "title": "Capital Markets Workshop",
-      "url": "https://unstop.com/workshops-webinars/capital-markets-workshop-the-capital-school-1771828",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
   "https://unstop.com/workshops-webinars/how-to-become-full-stack-developer-using-ai-upsc-zone-ai-1772077": {
     "title": "How to Become Full Stack Developer using AI",
     "normalized_title": "how to become full stack developer using ai",
@@ -3181,6 +3149,150 @@
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
+    }
+  },
+  "https://devopsdays.org/events/2027-los-angeles": {
+    "title": "DevOpsDay LA",
+    "normalized_title": "devopsday la",
+    "original_url": "https://devopsdays.org/events/2027-los-angeles",
+    "canonical_url": "https://devopsdays.org/events/2027-los-angeles",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DEVOPS)",
+    "sent_at": "2026-11-17T12:10:57.556165+00:00",
+    "metadata": {
+      "title": "DevOpsDay LA",
+      "url": "https://devopsdays.org/events/2027-los-angeles",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DEVOPS)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://events.itrevolution.com/2027-portland": {
+    "title": "Enterprise AI Summit",
+    "normalized_title": "enterprise ai summit",
+    "original_url": "https://events.itrevolution.com/2027-portland/",
+    "canonical_url": "https://events.itrevolution.com/2027-portland",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-11-17T12:10:57.556202+00:00",
+    "metadata": {
+      "title": "Enterprise AI Summit",
+      "url": "https://events.itrevolution.com/2027-portland/",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://unstop.com/workshops-webinars/free-live-webinar-on-azure-data-engineer-quality-thought-info-systems-1815894": {
+    "title": "Free Live Webinar on Azure Data Engineer",
+    "normalized_title": "free live webinar on azure data engineer",
+    "original_url": "https://unstop.com/workshops-webinars/free-live-webinar-on-azure-data-engineer-quality-thought-info-systems-1815894",
+    "canonical_url": "https://unstop.com/workshops-webinars/free-live-webinar-on-azure-data-engineer-quality-thought-info-systems-1815894",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-17T12:10:57.556224+00:00",
+    "metadata": {
+      "title": "Free Live Webinar on Azure Data Engineer",
+      "url": "https://unstop.com/workshops-webinars/free-live-webinar-on-azure-data-engineer-quality-thought-info-systems-1815894",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/crp-pep-agro-stars-pep-stars-2026-pepsico-1687515": {
+    "title": "Pep Agro Stars",
+    "normalized_title": "pep agro stars",
+    "original_url": "https://unstop.com/workshops-webinars/crp-pep-agro-stars-pep-stars-2026-pepsico-1687515",
+    "canonical_url": "https://unstop.com/workshops-webinars/crp-pep-agro-stars-pep-stars-2026-pepsico-1687515",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-17T12:10:57.556242+00:00",
+    "metadata": {
+      "title": "Pep Agro Stars",
+      "url": "https://unstop.com/workshops-webinars/crp-pep-agro-stars-pep-stars-2026-pepsico-1687515",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/biologically-inspired-robotics-webinar-nature-as-an-engineer-hepelancer-1815690": {
+    "title": "Biologically Inspired Robotics Webinar – Nature as an Engineer",
+    "normalized_title": "biologically inspired robotics webinar nature as an engineer",
+    "original_url": "https://unstop.com/workshops-webinars/biologically-inspired-robotics-webinar-nature-as-an-engineer-hepelancer-1815690",
+    "canonical_url": "https://unstop.com/workshops-webinars/biologically-inspired-robotics-webinar-nature-as-an-engineer-hepelancer-1815690",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-17T12:10:57.556265+00:00",
+    "metadata": {
+      "title": "Biologically Inspired Robotics Webinar – Nature as an Engineer",
+      "url": "https://unstop.com/workshops-webinars/biologically-inspired-robotics-webinar-nature-as-an-engineer-hepelancer-1815690",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/cyber-security-with-ai-demo-session-explore-the-future-of-ai-powered-security-quality-thought-1815695": {
+    "title": "Cyber Security with AI Demo Session | Explore the Future of AI-Powered Security",
+    "normalized_title": "cyber security with ai demo session explore the future of aipowered security",
+    "original_url": "https://unstop.com/workshops-webinars/cyber-security-with-ai-demo-session-explore-the-future-of-ai-powered-security-quality-thought-1815695",
+    "canonical_url": "https://unstop.com/workshops-webinars/cyber-security-with-ai-demo-session-explore-the-future-of-ai-powered-security-quality-thought-1815695",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-17T12:10:57.556289+00:00",
+    "metadata": {
+      "title": "Cyber Security with AI Demo Session | Explore the Future of AI-Powered Security",
+      "url": "https://unstop.com/workshops-webinars/cyber-security-with-ai-demo-session-explore-the-future-of-ai-powered-security-quality-thought-1815695",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/build-an-ai-mock-interview-app-that-gives-real-time-feedback-impacteers-1813008": {
+    "title": "Build an AI Mock Interview App That Gives Real-Time Feedback",
+    "normalized_title": "build an ai mock interview app that gives realtime feedback",
+    "original_url": "https://unstop.com/workshops-webinars/build-an-ai-mock-interview-app-that-gives-real-time-feedback-impacteers-1813008",
+    "canonical_url": "https://unstop.com/workshops-webinars/build-an-ai-mock-interview-app-that-gives-real-time-feedback-impacteers-1813008",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-17T12:10:57.556303+00:00",
+    "metadata": {
+      "title": "Build an AI Mock Interview App That Gives Real-Time Feedback",
+      "url": "https://unstop.com/workshops-webinars/build-an-ai-mock-interview-app-that-gives-real-time-feedback-impacteers-1813008",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://aicommunitydays.ai/events/aicd-summit-2026": {
+    "title": "AICD Summit",
+    "normalized_title": "aicd summit",
+    "original_url": "https://aicommunitydays.ai/events/aicd-summit-2026",
+    "canonical_url": "https://aicommunitydays.ai/events/aicd-summit-2026",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (DATA)",
+    "sent_at": "2026-11-17T12:10:57.556314+00:00",
+    "metadata": {
+      "title": "AICD Summit",
+      "url": "https://aicommunitydays.ai/events/aicd-summit-2026",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (DATA)",
+      "event_type": "Call for Papers"
+    }
+  },
+  "https://webinale.com/berlin": {
+    "title": "webinale Berlin",
+    "normalized_title": "webinale berlin",
+    "original_url": "https://webinale.com/berlin",
+    "canonical_url": "https://webinale.com/berlin",
+    "category": "Meetups, Demo Days & CFPs",
+    "platform": "Confs.tech (JAVASCRIPT)",
+    "sent_at": "2026-11-17T12:10:57.556324+00:00",
+    "metadata": {
+      "title": "webinale Berlin",
+      "url": "https://webinale.com/berlin",
+      "category": "Meetups, Demo Days & CFPs",
+      "platform_or_source": "Confs.tech (JAVASCRIPT)",
+      "event_type": "Call for Papers"
     }
   }
 }
