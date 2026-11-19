@@ -1,84 +1,4 @@
 {
-  "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277": {
-    "title": "Vidhi Vaad - Debate Competition (National-Level)",
-    "normalized_title": "vidhi vaad debate competition nationallevel",
-    "original_url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
-    "canonical_url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Conferences)",
-    "sent_at": "2026-10-20T08:44:40.623925+00:00",
-    "metadata": {
-      "title": "Vidhi Vaad - Debate Competition (National-Level)",
-      "url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Conferences)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325": {
-    "title": "National Mediation Competition",
-    "normalized_title": "national mediation competition",
-    "original_url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
-    "canonical_url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Conferences)",
-    "sent_at": "2026-10-20T08:44:40.623950+00:00",
-    "metadata": {
-      "title": "National Mediation Competition",
-      "url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Conferences)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540": {
-    "title": "Give a solution to a problem.",
-    "normalized_title": "give a solution to a problem",
-    "original_url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540",
-    "canonical_url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-20T08:44:40.623965+00:00",
-    "metadata": {
-      "title": "Give a solution to a problem.",
-      "url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231": {
-    "title": "Pioneering B2B SaaS Firm",
-    "normalized_title": "pioneering b2b saas firm",
-    "original_url": "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231",
-    "canonical_url": "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-20T08:44:40.623978+00:00",
-    "metadata": {
-      "title": "Pioneering B2B SaaS Firm",
-      "url": "https://unstop.com/workshops-webinars/pioneering-b2b-saas-firm-gocrackit-1772231",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237": {
-    "title": "Founder Fireside and Interactive Session with Wingwoman.sim",
-    "normalized_title": "founder fireside and interactive session with wingwomansim",
-    "original_url": "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237",
-    "canonical_url": "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-20T08:44:40.623991+00:00",
-    "metadata": {
-      "title": "Founder Fireside and Interactive Session with Wingwoman.sim",
-      "url": "https://unstop.com/workshops-webinars/founder-fireside-and-interactive-session-with-wingwomansim-masters-union-school-of-business-1770237",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
   "https://unstop.com/workshops-webinars/bug-bounty-days-hackosquadctf-1772610": {
     "title": "Bug Bounty Days",
     "normalized_title": "bug bounty days",
@@ -3338,6 +3258,182 @@
     "metadata": {
       "title": "Data Analyst with AI | Attend Free Demo Session on November 19th, 2026",
       "url": "https://unstop.com/workshops-webinars/data-analyst-with-ai-attend-free-demo-session-on-november-19th-2026-quality-thought-1817610",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/ai-entrepreneurship-bootcamp-and-innovation-challenge-project-elevate-1819199": {
+    "title": "AI & Entrepreneurship Bootcamp and Innovation Challenge",
+    "normalized_title": "ai entrepreneurship bootcamp and innovation challenge",
+    "original_url": "https://unstop.com/workshops-webinars/ai-entrepreneurship-bootcamp-and-innovation-challenge-project-elevate-1819199",
+    "canonical_url": "https://unstop.com/workshops-webinars/ai-entrepreneurship-bootcamp-and-innovation-challenge-project-elevate-1819199",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760904+00:00",
+    "metadata": {
+      "title": "AI & Entrepreneurship Bootcamp and Innovation Challenge",
+      "url": "https://unstop.com/workshops-webinars/ai-entrepreneurship-bootcamp-and-innovation-challenge-project-elevate-1819199",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/generative-and-agentic-ai-foundations-frameworks-and-autonomous-applications-iit-hyderabad-1819306": {
+    "title": "Generative and  Agentic AI: Foundations, Frameworks, and Autonomous Applications",
+    "normalized_title": "generative and agentic ai foundations frameworks and autonomous applications",
+    "original_url": "https://unstop.com/workshops-webinars/generative-and-agentic-ai-foundations-frameworks-and-autonomous-applications-iit-hyderabad-1819306",
+    "canonical_url": "https://unstop.com/workshops-webinars/generative-and-agentic-ai-foundations-frameworks-and-autonomous-applications-iit-hyderabad-1819306",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760924+00:00",
+    "metadata": {
+      "title": "Generative and  Agentic AI: Foundations, Frameworks, and Autonomous Applications",
+      "url": "https://unstop.com/workshops-webinars/generative-and-agentic-ai-foundations-frameworks-and-autonomous-applications-iit-hyderabad-1819306",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/iit-bombay-e-summit26-workshop-built-to-be-backed-iit-bombay-1818465": {
+    "title": "IIT Bombay E-Summit’26 Workshop: Built to Be Backed",
+    "normalized_title": "iit bombay esummit26 workshop built to be backed",
+    "original_url": "https://unstop.com/workshops-webinars/iit-bombay-e-summit26-workshop-built-to-be-backed-iit-bombay-1818465",
+    "canonical_url": "https://unstop.com/workshops-webinars/iit-bombay-e-summit26-workshop-built-to-be-backed-iit-bombay-1818465",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760938+00:00",
+    "metadata": {
+      "title": "IIT Bombay E-Summit’26 Workshop: Built to Be Backed",
+      "url": "https://unstop.com/workshops-webinars/iit-bombay-e-summit26-workshop-built-to-be-backed-iit-bombay-1818465",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-26th-november-2026-quality-thought-info-systems-1818997": {
+    "title": "Live Webinar on AI & ML with Data Science  | 26th November 2026",
+    "normalized_title": "live webinar on ai ml with data science 26th november 2026",
+    "original_url": "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-26th-november-2026-quality-thought-info-systems-1818997",
+    "canonical_url": "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-26th-november-2026-quality-thought-info-systems-1818997",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760947+00:00",
+    "metadata": {
+      "title": "Live Webinar on AI & ML with Data Science  | 26th November 2026",
+      "url": "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-26th-november-2026-quality-thought-info-systems-1818997",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/build-your-future-with-artificial-intelligence-sattix-ai-1819236": {
+    "title": "Future Ready with AI: Learn, Build & Innovate",
+    "normalized_title": "future ready with ai learn build innovate",
+    "original_url": "https://unstop.com/workshops-webinars/build-your-future-with-artificial-intelligence-sattix-ai-1819236",
+    "canonical_url": "https://unstop.com/workshops-webinars/build-your-future-with-artificial-intelligence-sattix-ai-1819236",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760955+00:00",
+    "metadata": {
+      "title": "Future Ready with AI: Learn, Build & Innovate",
+      "url": "https://unstop.com/workshops-webinars/build-your-future-with-artificial-intelligence-sattix-ai-1819236",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/airleap-satelite-ground-station-building-program-satelite-ground-station-building-g-vayu-robotics-pri-1817674": {
+    "title": "AirLeap Satelite Ground Station Building Program",
+    "normalized_title": "airleap satelite ground station building program",
+    "original_url": "https://unstop.com/workshops-webinars/airleap-satelite-ground-station-building-program-satelite-ground-station-building-g-vayu-robotics-pri-1817674",
+    "canonical_url": "https://unstop.com/workshops-webinars/airleap-satelite-ground-station-building-program-satelite-ground-station-building-g-vayu-robotics-pri-1817674",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760963+00:00",
+    "metadata": {
+      "title": "AirLeap Satelite Ground Station Building Program",
+      "url": "https://unstop.com/workshops-webinars/airleap-satelite-ground-station-building-program-satelite-ground-station-building-g-vayu-robotics-pri-1817674",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/dating-wordpress-its-complicated-until-you-learn-skillshaa-1818334": {
+    "title": "Dating WordPress: It’s Complicated, Until You Learn",
+    "normalized_title": "dating wordpress its complicated until you learn",
+    "original_url": "https://unstop.com/workshops-webinars/dating-wordpress-its-complicated-until-you-learn-skillshaa-1818334",
+    "canonical_url": "https://unstop.com/workshops-webinars/dating-wordpress-its-complicated-until-you-learn-skillshaa-1818334",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760972+00:00",
+    "metadata": {
+      "title": "Dating WordPress: It’s Complicated, Until You Learn",
+      "url": "https://unstop.com/workshops-webinars/dating-wordpress-its-complicated-until-you-learn-skillshaa-1818334",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/game-on-night-build-pitch-your-own-ai-game-in-60-mins-cimage-group-of-institutions-1818102": {
+    "title": "Game On Night: Build & Pitch Your Own AI Game in 60 Mins",
+    "normalized_title": "game on night build pitch your own ai game in 60 mins",
+    "original_url": "https://unstop.com/workshops-webinars/game-on-night-build-pitch-your-own-ai-game-in-60-mins-cimage-group-of-institutions-1818102",
+    "canonical_url": "https://unstop.com/workshops-webinars/game-on-night-build-pitch-your-own-ai-game-in-60-mins-cimage-group-of-institutions-1818102",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760981+00:00",
+    "metadata": {
+      "title": "Game On Night: Build & Pitch Your Own AI Game in 60 Mins",
+      "url": "https://unstop.com/workshops-webinars/game-on-night-build-pitch-your-own-ai-game-in-60-mins-cimage-group-of-institutions-1818102",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/game-on-night-imagine-the-impossible-babu-banarasi-das-national-institute-of-technology-and-managemen-1817395": {
+    "title": "Game On Night: Imagine The Impossible",
+    "normalized_title": "game on night imagine the impossible",
+    "original_url": "https://unstop.com/workshops-webinars/game-on-night-imagine-the-impossible-babu-banarasi-das-national-institute-of-technology-and-managemen-1817395",
+    "canonical_url": "https://unstop.com/workshops-webinars/game-on-night-imagine-the-impossible-babu-banarasi-das-national-institute-of-technology-and-managemen-1817395",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760990+00:00",
+    "metadata": {
+      "title": "Game On Night: Imagine The Impossible",
+      "url": "https://unstop.com/workshops-webinars/game-on-night-imagine-the-impossible-babu-banarasi-das-national-institute-of-technology-and-managemen-1817395",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/national-aviation-olympiad-grand-finale-centre-for-scientific-outreach-1815119": {
+    "title": "National Aviation Olympiad Grand Finale",
+    "normalized_title": "national aviation olympiad grand finale",
+    "original_url": "https://unstop.com/workshops-webinars/national-aviation-olympiad-grand-finale-centre-for-scientific-outreach-1815119",
+    "canonical_url": "https://unstop.com/workshops-webinars/national-aviation-olympiad-grand-finale-centre-for-scientific-outreach-1815119",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.760998+00:00",
+    "metadata": {
+      "title": "National Aviation Olympiad Grand Finale",
+      "url": "https://unstop.com/workshops-webinars/national-aviation-olympiad-grand-finale-centre-for-scientific-outreach-1815119",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/webinar-agentic-solutions-poc-to-production-why-salesforce-org-health-decides-which-agents-go-live-ac-1817687": {
+    "title": "Webinar : Agentic Solutions POC to Production: Why Salesforce Org Health Decides Which Agents Go Live",
+    "normalized_title": "webinar agentic solutions poc to production why salesforce org health decides which agents go live",
+    "original_url": "https://unstop.com/workshops-webinars/webinar-agentic-solutions-poc-to-production-why-salesforce-org-health-decides-which-agents-go-live-ac-1817687",
+    "canonical_url": "https://unstop.com/workshops-webinars/webinar-agentic-solutions-poc-to-production-why-salesforce-org-health-decides-which-agents-go-live-ac-1817687",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-19T11:56:57.761007+00:00",
+    "metadata": {
+      "title": "Webinar : Agentic Solutions POC to Production: Why Salesforce Org Health Decides Which Agents Go Live",
+      "url": "https://unstop.com/workshops-webinars/webinar-agentic-solutions-poc-to-production-why-salesforce-org-health-decides-which-agents-go-live-ac-1817687",
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
       "event_type": "Workshop"
