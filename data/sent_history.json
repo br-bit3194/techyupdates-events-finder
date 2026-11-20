@@ -1,20 +1,4 @@
 {
-  "https://unstop.com/workshops-webinars/bug-bounty-days-hackosquadctf-1772610": {
-    "title": "Bug Bounty Days",
-    "normalized_title": "bug bounty days",
-    "original_url": "https://unstop.com/workshops-webinars/bug-bounty-days-hackosquadctf-1772610",
-    "canonical_url": "https://unstop.com/workshops-webinars/bug-bounty-days-hackosquadctf-1772610",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-21T08:45:27.037496+00:00",
-    "metadata": {
-      "title": "Bug Bounty Days",
-      "url": "https://unstop.com/workshops-webinars/bug-bounty-days-hackosquadctf-1772610",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
   "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174": {
     "title": "SIH 2026 Finalist Webinar: From Shortlisting to Grand Finale",
     "normalized_title": "sih 2026 finalist webinar from shortlisting to grand finale",
@@ -3436,6 +3420,86 @@
       "url": "https://unstop.com/workshops-webinars/webinar-agentic-solutions-poc-to-production-why-salesforce-org-health-decides-which-agents-go-live-ac-1817687",
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/webinar-is-an-mba-worth-it-in-the-age-of-ai-asian-school-of-business-asb-noida-1819972": {
+    "title": "Webinar: Is an MBA Worth it in the Age of AI?",
+    "normalized_title": "webinar is an mba worth it in the age of ai",
+    "original_url": "https://unstop.com/workshops-webinars/webinar-is-an-mba-worth-it-in-the-age-of-ai-asian-school-of-business-asb-noida-1819972",
+    "canonical_url": "https://unstop.com/workshops-webinars/webinar-is-an-mba-worth-it-in-the-age-of-ai-asian-school-of-business-asb-noida-1819972",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-20T11:58:11.175708+00:00",
+    "metadata": {
+      "title": "Webinar: Is an MBA Worth it in the Age of AI?",
+      "url": "https://unstop.com/workshops-webinars/webinar-is-an-mba-worth-it-in-the-age-of-ai-asian-school-of-business-asb-noida-1819972",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/mantiq-2027-annual-paper-presentation-competition-lady-shri-ram-college-for-women-lsr-du-new-delhi-1818221": {
+    "title": "Mantiq 2027: Annual Paper Presentation Competition",
+    "normalized_title": "mantiq 2027 annual paper presentation competition",
+    "original_url": "https://unstop.com/conferences/mantiq-2027-annual-paper-presentation-competition-lady-shri-ram-college-for-women-lsr-du-new-delhi-1818221",
+    "canonical_url": "https://unstop.com/conferences/mantiq-2027-annual-paper-presentation-competition-lady-shri-ram-college-for-women-lsr-du-new-delhi-1818221",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-20T11:58:11.175731+00:00",
+    "metadata": {
+      "title": "Mantiq 2027: Annual Paper Presentation Competition",
+      "url": "https://unstop.com/conferences/mantiq-2027-annual-paper-presentation-competition-lady-shri-ram-college-for-women-lsr-du-new-delhi-1818221",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/how-to-crack-live-interviews-at-product-based-companies-raisetech-1819651": {
+    "title": "How To Crack Live Interviews at Product Based Companies",
+    "normalized_title": "how to crack live interviews at product based companies",
+    "original_url": "https://unstop.com/workshops-webinars/how-to-crack-live-interviews-at-product-based-companies-raisetech-1819651",
+    "canonical_url": "https://unstop.com/workshops-webinars/how-to-crack-live-interviews-at-product-based-companies-raisetech-1819651",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-20T11:58:11.175742+00:00",
+    "metadata": {
+      "title": "How To Crack Live Interviews at Product Based Companies",
+      "url": "https://unstop.com/workshops-webinars/how-to-crack-live-interviews-at-product-based-companies-raisetech-1819651",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277": {
+    "title": "Vidhi Vaad - Debate Competition (National-Level)",
+    "normalized_title": "vidhi vaad debate competition nationallevel",
+    "original_url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
+    "canonical_url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-20T11:58:11.175751+00:00",
+    "metadata": {
+      "title": "Vidhi Vaad - Debate Competition (National-Level)",
+      "url": "https://unstop.com/conferences/vidhi-vaad-debate-competition-national-level-nims-university-nu-jaipur-1772277",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325": {
+    "title": "National Mediation Competition",
+    "normalized_title": "national mediation competition",
+    "original_url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
+    "canonical_url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-20T11:58:11.175758+00:00",
+    "metadata": {
+      "title": "National Mediation Competition",
+      "url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
       "event_type": "Workshop"
     }
   }
