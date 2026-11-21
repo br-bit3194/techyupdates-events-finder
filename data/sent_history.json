@@ -1,84 +1,4 @@
 {
-  "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174": {
-    "title": "SIH 2026 Finalist Webinar: From Shortlisting to Grand Finale",
-    "normalized_title": "sih 2026 finalist webinar from shortlisting to grand finale",
-    "original_url": "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174",
-    "canonical_url": "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-22T08:47:40.210489+00:00",
-    "metadata": {
-      "title": "SIH 2026 Finalist Webinar: From Shortlisting to Grand Finale",
-      "url": "https://unstop.com/workshops-webinars/sih-2026-finalist-webinar-from-shortlisting-to-grand-finale-hepelancer-1773174",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879": {
-    "title": "Alankar 2026: The Leadership Talk Series",
-    "normalized_title": "alankar 2026 the leadership talk series",
-    "original_url": "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879",
-    "canonical_url": "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Conferences)",
-    "sent_at": "2026-10-22T08:47:40.210532+00:00",
-    "metadata": {
-      "title": "Alankar 2026: The Leadership Talk Series",
-      "url": "https://unstop.com/conferences/alankar-2026-the-leadership-talk-series-sjmsom-1772879",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Conferences)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329": {
-    "title": "Free Cyber Security with AI Workshop – Quality Thought",
-    "normalized_title": "free cyber security with ai workshop quality thought",
-    "original_url": "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329",
-    "canonical_url": "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-22T08:47:40.210555+00:00",
-    "metadata": {
-      "title": "Free Cyber Security with AI Workshop – Quality Thought",
-      "url": "https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-quality-thought-quality-thought-info-systems-1773329",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460": {
-    "title": "Build Your First Portfolio Website",
-    "normalized_title": "build your first portfolio website",
-    "original_url": "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460",
-    "canonical_url": "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-22T08:47:40.210570+00:00",
-    "metadata": {
-      "title": "Build Your First Portfolio Website",
-      "url": "https://unstop.com/workshops-webinars/build-your-first-portfolio-website-skill2career-1772460",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
-  "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695": {
-    "title": "Day 2: Workshop",
-    "normalized_title": "day 2 workshop",
-    "original_url": "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695",
-    "canonical_url": "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695",
-    "category": "Student Tech Fests & Workshops",
-    "platform": "Unstop (Workshops)",
-    "sent_at": "2026-10-22T08:47:40.210584+00:00",
-    "metadata": {
-      "title": "Day 2: Workshop",
-      "url": "https://unstop.com/workshops-webinars/day-2-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771695",
-      "category": "Student Tech Fests & Workshops",
-      "platform_or_source": "Unstop (Workshops)",
-      "event_type": "Workshop"
-    }
-  },
   "https://unstop.com/conferences/tedxklh-university-bowrampet-koneru-lakshmaiah-education-foundation-kl-university-bowrampet-1773192": {
     "title": "TEDxKLH University Bowrampet",
     "normalized_title": "tedxklh university bowrampet",
@@ -3498,6 +3418,118 @@
     "metadata": {
       "title": "National Mediation Competition",
       "url": "https://unstop.com/conferences/national-mediation-competition-nims-university-nu-jaipur-1772325",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/gcp-data-engineer-training-in-hyderabad-real-time-projects-free-demo-22nd-november-2026-quality-thoug-1822102": {
+    "title": "GCP Data Engineer Training in Hyderabad | Real-Time Projects | Free Demo – 22nd November 2026",
+    "normalized_title": "gcp data engineer training in hyderabad realtime projects free demo 22nd november 2026",
+    "original_url": "https://unstop.com/workshops-webinars/gcp-data-engineer-training-in-hyderabad-real-time-projects-free-demo-22nd-november-2026-quality-thoug-1822102",
+    "canonical_url": "https://unstop.com/workshops-webinars/gcp-data-engineer-training-in-hyderabad-real-time-projects-free-demo-22nd-november-2026-quality-thoug-1822102",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-21T11:30:07.350797+00:00",
+    "metadata": {
+      "title": "GCP Data Engineer Training in Hyderabad | Real-Time Projects | Free Demo – 22nd November 2026",
+      "url": "https://unstop.com/workshops-webinars/gcp-data-engineer-training-in-hyderabad-real-time-projects-free-demo-22nd-november-2026-quality-thoug-1822102",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/agentforge-build-day-hands-on-agentic-ai-workshop-delhi-institute-of-technology-and-management-1821383": {
+    "title": "AgentForge Build Day: Hands-On Agentic AI Workshop",
+    "normalized_title": "agentforge build day handson agentic ai workshop",
+    "original_url": "https://unstop.com/workshops-webinars/agentforge-build-day-hands-on-agentic-ai-workshop-delhi-institute-of-technology-and-management-1821383",
+    "canonical_url": "https://unstop.com/workshops-webinars/agentforge-build-day-hands-on-agentic-ai-workshop-delhi-institute-of-technology-and-management-1821383",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-21T11:30:07.350824+00:00",
+    "metadata": {
+      "title": "AgentForge Build Day: Hands-On Agentic AI Workshop",
+      "url": "https://unstop.com/workshops-webinars/agentforge-build-day-hands-on-agentic-ai-workshop-delhi-institute-of-technology-and-management-1821383",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/crp-asian-parliamentary-debate-2026-delphique-2026-mdi-1805365": {
+    "title": "Asian Parliamentary Debate 2026",
+    "normalized_title": "asian parliamentary debate 2026",
+    "original_url": "https://unstop.com/conferences/crp-asian-parliamentary-debate-2026-delphique-2026-mdi-1805365",
+    "canonical_url": "https://unstop.com/conferences/crp-asian-parliamentary-debate-2026-delphique-2026-mdi-1805365",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-21T11:30:07.350838+00:00",
+    "metadata": {
+      "title": "Asian Parliamentary Debate 2026",
+      "url": "https://unstop.com/conferences/crp-asian-parliamentary-debate-2026-delphique-2026-mdi-1805365",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Conferences)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/winter-consulting-2026-iit-guwahati-1820957": {
+    "title": "Winter Consulting 2026",
+    "normalized_title": "winter consulting 2026",
+    "original_url": "https://unstop.com/workshops-webinars/winter-consulting-2026-iit-guwahati-1820957",
+    "canonical_url": "https://unstop.com/workshops-webinars/winter-consulting-2026-iit-guwahati-1820957",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-21T11:30:07.350849+00:00",
+    "metadata": {
+      "title": "Winter Consulting 2026",
+      "url": "https://unstop.com/workshops-webinars/winter-consulting-2026-iit-guwahati-1820957",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/decode-your-first-job-free-career-readiness-masterclass-elevate-careers-india-1822015": {
+    "title": "Decode Your First Job: Free Career Readiness Masterclass",
+    "normalized_title": "decode your first job free career readiness masterclass",
+    "original_url": "https://unstop.com/workshops-webinars/decode-your-first-job-free-career-readiness-masterclass-elevate-careers-india-1822015",
+    "canonical_url": "https://unstop.com/workshops-webinars/decode-your-first-job-free-career-readiness-masterclass-elevate-careers-india-1822015",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-21T11:30:07.350861+00:00",
+    "metadata": {
+      "title": "Decode Your First Job: Free Career Readiness Masterclass",
+      "url": "https://unstop.com/workshops-webinars/decode-your-first-job-free-career-readiness-masterclass-elevate-careers-india-1822015",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/workshops-webinars/upskill-summit-2026-career-internship-awareness-webinar-learners-track-1821274": {
+    "title": "Upskill Summit 2026 – Career & Internship Awareness Webinar",
+    "normalized_title": "upskill summit 2026 career internship awareness webinar",
+    "original_url": "https://unstop.com/workshops-webinars/upskill-summit-2026-career-internship-awareness-webinar-learners-track-1821274",
+    "canonical_url": "https://unstop.com/workshops-webinars/upskill-summit-2026-career-internship-awareness-webinar-learners-track-1821274",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Workshops)",
+    "sent_at": "2026-11-21T11:30:07.350876+00:00",
+    "metadata": {
+      "title": "Upskill Summit 2026 – Career & Internship Awareness Webinar",
+      "url": "https://unstop.com/workshops-webinars/upskill-summit-2026-career-internship-awareness-webinar-learners-track-1821274",
+      "category": "Student Tech Fests & Workshops",
+      "platform_or_source": "Unstop (Workshops)",
+      "event_type": "Workshop"
+    }
+  },
+  "https://unstop.com/conferences/international-conference-on-intelligent-systems-and-emerging-technologies-poornima-university-pu-jaipur-1821777": {
+    "title": "International Conference on Intelligent Systems and Emerging Technologies",
+    "normalized_title": "international conference on intelligent systems and emerging technologies",
+    "original_url": "https://unstop.com/conferences/international-conference-on-intelligent-systems-and-emerging-technologies-poornima-university-pu-jaipur-1821777",
+    "canonical_url": "https://unstop.com/conferences/international-conference-on-intelligent-systems-and-emerging-technologies-poornima-university-pu-jaipur-1821777",
+    "category": "Student Tech Fests & Workshops",
+    "platform": "Unstop (Conferences)",
+    "sent_at": "2026-11-21T11:30:07.350887+00:00",
+    "metadata": {
+      "title": "International Conference on Intelligent Systems and Emerging Technologies",
+      "url": "https://unstop.com/conferences/international-conference-on-intelligent-systems-and-emerging-technologies-poornima-university-pu-jaipur-1821777",
       "category": "Student Tech Fests & Workshops",
       "platform_or_source": "Unstop (Conferences)",
       "event_type": "Workshop"
